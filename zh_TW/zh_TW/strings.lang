@@ -21,11 +21,11 @@ weather.overworld.winter.snow.name=Snowing
 weather.overworld.storm.name=Thundering
 weather.overworld.fog.name=Foggy
 
-gamemode.survival.name=生存模式
-gamemode.creative.name=創造模式
-gamemode.hardcore.name=極限模式
-gamemode.adventure.name=冒險模式
-gamemode.spectator.name=旁觀模式
+gamemode.survival.name=生存
+gamemode.creative.name=創造
+gamemode.hardcore.name=極限
+gamemode.adventure.name=冒險
+gamemode.spectator.name=旁觀
 
 worldType.overworld.extended.name=預設拓展
 worldType.overworld.extended.desc=The intended experience for\nBTA, featuring larger biomes and\ntaller worlds.
