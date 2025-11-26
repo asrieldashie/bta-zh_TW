@@ -117,10 +117,10 @@ gui.downloading_terrain.label.title=正在下載地形
 
 gui.edit_flag.label.inventory=物品欄
 
-gui.edit_label.label.title=編輯標籤文字 ：
+gui.edit_label.label.title=編輯標籤文字
 gui.edit_label.button.done=完成
 
-gui.edit_sign.label.title=編輯告示牌內容 ：
+gui.edit_sign.label.title=編輯告示牌內容
 gui.edit_sign.button.done=完成
 
 gui.exception.label.exception_occurred=發生未預期的錯誤！
