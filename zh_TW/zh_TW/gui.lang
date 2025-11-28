@@ -160,8 +160,8 @@ gui.inventory.creative.label.search=搜尋...
 
 gui.loading.label.generating=正在生成世界...
 gui.loading.label.loading=正在載入地形...
-gui.loading.label.entering=正在加入 %s...
-gui.loading.label.leaving=正在退出 %s...
+gui.loading.label.entering=正在進入%s...
+gui.loading.label.leaving=正在離開%s...
 
 gui.main_menu.label.splash.jonkadelic_birthday=生日快樂，Jonkadelic！
 gui.main_menu.label.splash.maggandgeez_birthday=生日快樂，MaggAndGeez！
@@ -237,7 +237,7 @@ gui.options.page.texture_packs.title=材質包
 gui.options.page.texture_packs.category.textures=材質包選項
 gui.options.page.texture_packs.category.texture_packs.available=可用材質包
 gui.options.page.texture_packs.category.texture_packs.selected=已選材質包
-gui.options.page.texture_packs.button.open_folder=開啟資料夾
+gui.options.page.texture_packs.button.open_folder=開啟材質包資料夾
 gui.options.page.texture_packs.button.apply=套用材質包
 gui.options.page.texture_packs.label.no_packs=未找到材質包 :(
 gui.options.page.texture_packs.label.outdated_pack.1=材質包不相容！
@@ -245,7 +245,7 @@ gui.options.page.texture_packs.label.outdated_pack.2=這個材質包與目前 BT
 
 gui.options.page.language_packs.title=語言
 gui.options.page.language_packs.category.language_packs=語言包
-gui.options.page.language_packs.button.open_folder=開啟資料夾
+gui.options.page.language_packs.button.open_folder=開啟語言包資料夾
 
 gui.options.page.debug.title=除錯選單
 gui.options.page.debug.category.controls=除錯 Controls
