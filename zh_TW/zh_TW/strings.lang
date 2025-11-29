@@ -83,7 +83,7 @@ damagetype.blast=爆炸
 damagetype.fall=摔落
 damagetype.fire=灼傷
 
-progress.tip=提示：%s
+progress.tip=提示： %s
 
 bed.occupied=這張床已被占用
 bed.noSleep=你只能在晚上或暴風雨中入睡
