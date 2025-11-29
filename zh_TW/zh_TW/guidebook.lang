@@ -20,7 +20,7 @@ guidebook.section.search.info.modifiers.7=在配方類別中搜尋
 guidebook.section.search.info.modifiers.8=§e...!§r： 嚴格條件搜尋
 guidebook.section.search.info.modifiers.9=§e...§r： 一般條件搜尋
 
-guidebook.section.mob.health=血量：
+guidebook.section.mob.health=生命值：
 guidebook.section.mob.score=分數： %s
 guidebook.section.mob.damage=傷害： %s
 guidebook.section.mob.drops=掉落物：

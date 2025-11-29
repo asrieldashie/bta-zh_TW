@@ -1,3 +1,8 @@
+  # 以原版 (1.21.10) 已有方塊翻譯為主，包含BTA自身有更改過名稱的方塊（如Perma-Ice譯為冰磚）；
+  # 部份參考简体中文(zh-CN)、舊版本及現實物品的翻譯。
+  # 方塊描述的部份會根據文本流暢度及實際用途有所增減。
+  # 部份原文較為奇特或搞怪的描述可能無法準確傳達，或和原意大相逕庭，
+  # 敬請見諒。
 tile.stone.name=石頭
 tile.stone.desc=一塊堅固的石頭。
 tile.basalt.name=玄武岩
@@ -11,6 +16,7 @@ tile.marble.desc=一塊堅固的大理石。
 tile.slate.name=板岩
 tile.slate.desc=一塊堅固的板岩。
 tile.permafrost.name=永凍岩
+  # 參考zh-CN及實際用途和情況將其譯為一種石頭
 tile.permafrost.desc=一塊凍住的永凍岩。
 
 tile.cobble.stone.name=鵝卵石
@@ -540,14 +546,14 @@ tile.deadbush.desc=乾枯的植物。
 tile.spinifex.name=濱刺草
 tile.spinifex.desc=生長自乾旱地區， 一種纖細瘦弱的植物。
 tile.algae.name=藻
-tile.algae.desc=浮在水面的一種黏呼呼的綠色植物。
+tile.algae.desc=浮於水面， 一種黏呼呼的綠色植物。
 
 tile.flower.yellow.name=蒲公英
 tile.flower.yellow.desc=一朵美麗的黃色小花。
 tile.flower.red.name=玫瑰
 tile.flower.red.desc=一朵美麗的紅色小花。
 tile.flower.purple.name=石楠花
-tile.flower.purple.desc=長著紫色花瓣的小枝椏，據說會帶來好運。
+tile.flower.purple.desc=長著紫色花瓣的小枝椏， 據說會帶來好運。
 tile.flower.lightblue.name=藍鈴花
 tile.flower.lightblue.desc=一朵憂鬱的藍色小花。
 tile.flower.pink.name=蘭花
@@ -556,9 +562,9 @@ tile.flower.orange.name=萬壽菊
 tile.flower.orange.desc=一朵美麗的橙色小花。
 
 tile.mushroom.red.name=紅色蘑菇
-tile.mushroom.red.desc=一朵美味的紅色蘑菇，適合用來燉湯。
+tile.mushroom.red.desc=一朵美味的紅色蘑菇， 適合用來燉湯。
 tile.mushroom.brown.name=棕色蘑菇
-tile.mushroom.brown.desc=一朵美味的棕色蘑菇，適合用來燉湯。
+tile.mushroom.brown.desc=一朵美味的棕色蘑菇， 適合用來燉湯。
 
 tile.ore.coal.stone.name=煤礦
 tile.ore.coal.stone.desc=內含有煤礦的石頭。
@@ -987,6 +993,7 @@ tile.pumpkin.redstone.name=紅石南瓜燈
 tile.pumpkin.redstone.desc=用紅石火把點亮， 長著鬼臉的橙色果實。
 
 tile.cobble.netherrack.name=地獄石
+  # 此處以實際情況為主，仍依據原版對應方塊翻譯。
 tile.cobble.netherrack.desc=可永久燃燒的深紅色岩石。
 tile.cobble.netherrack.igneous.name=熔融地獄石
 tile.cobble.netherrack.igneous.desc=極度高溫使其炙熱光芒從其內部發出。
@@ -1026,6 +1033,8 @@ tile.pumpkin_pie.name=南瓜派
 tile.pumpkin_pie.desc=派耶！
 
 tile.lamp.idle.name=紅石燈
+  # 此處根據原文描述暫譯為紅石燈，不過其在BTA中
+  # 也可不依靠紅石作為一般燈具使用
 tile.lamp.idle.desc=你是怎麼拿到這個的？！
 tile.lamp.idle.black.name=黑色紅石燈
 tile.lamp.idle.black.desc=會發光的紅石燈。
@@ -1334,3 +1343,4 @@ tile.glass.steel.desc=更堅固不易碎的玻璃。
 
 tile.rope.name=繩子
 tile.rope.desc=太繩啦。
+  # 原文為 "Rope, rope, rope your boat."

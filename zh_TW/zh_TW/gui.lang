@@ -1,7 +1,7 @@
 gui.achievement.label.get=獲得成就！
-gui.achievement.label.unlicensed.1=Better than Adventure! %s Unlicensed Copy :(
-gui.achievement.label.unlicensed.2=(Or logged in from another location)
-gui.achievement.label.unlicensed.3=Purchase at minecraft.net
+gui.achievement.label.unlicensed.1=Better than Adventure! %s 未授權版本 :(
+gui.achievement.label.unlicensed.2=（或已在其他地方登入）
+gui.achievement.label.unlicensed.3=請在 minecraft.net 購買原版遊戲
 
 gui.achievements.button.done=完成
 gui.achievements.label.title=成就
@@ -179,6 +179,8 @@ gui.main_menu.button.singleplayer=單人遊戲
 gui.main_menu.button.multiplayer=多人遊戲
 gui.main_menu.button.multiplayer.disabled=多人遊戲（尚未完成！）
 gui.main_menu.button.texture_packs=材質包
+  # 此處及其後出現的Texture Packs一詞皆根據原版1.5.2
+  # 將其譯為材質包
 gui.main_menu.button.options=選項...
 gui.main_menu.button.quit_game=離開遊戲
 gui.main_menu.button.discord=Discord
@@ -248,40 +250,42 @@ gui.options.page.language_packs.category.language_packs=語言包
 gui.options.page.language_packs.button.open_folder=開啟語言包資料夾
 
 gui.options.page.debug.title=除錯選單
-gui.options.page.debug.category.controls=除錯 Controls
-gui.options.page.debug.category.utility=Utilities
-gui.options.page.debug.category.settings=Settings
-gui.options.page.debug.category.test=Tests
-gui.options.page.debug.button.open.model_viewer=Open Model Viewer
-gui.options.page.debug.button.open.biome_finder=Open Seed Viewer
-gui.options.page.debug.button.open.datadumper=Run Data Dumper
-gui.options.page.debug.button.open.sound_test=Open Sound Test
-gui.options.page.debug.button.open.texture_viewer=Open Texture Viewer
-gui.options.page.debug.button.open.achievements=Open Achievements
-gui.options.page.debug.button.wipestats=Delete Stats
-gui.options.page.debug.button.unlockedall=Unlock all stats
-gui.options.page.debug.button.cheat=Enable Cheats
-gui.options.page.debug.button.crash.soft=Crash Soft
-gui.options.page.debug.button.crash.hard=Crash Hard
-gui.options.page.debug.button.music.skip=Force Ambient Music
-gui.options.page.debug.button.garbage_collect=Run Garbage Collector
+gui.options.page.debug.category.controls=除錯操作
+gui.options.page.debug.category.utility=實用工具
+gui.options.page.debug.category.settings=設定
+gui.options.page.debug.category.test=測試功能
+gui.options.page.debug.button.open.model_viewer=開啟模型預覽工具
+gui.options.page.debug.button.open.biome_finder=開啟種子預覽工具
+gui.options.page.debug.button.open.datadumper=執行資料傾印工具
+gui.options.page.debug.button.open.sound_test=開啟音效測試工具
+gui.options.page.debug.button.open.texture_viewer=開啟貼圖預覽工具
+gui.options.page.debug.button.open.achievements=開啟成就選單
+gui.options.page.debug.button.wipestats=刪除統計資訊
+gui.options.page.debug.button.unlockedall=解鎖所有統計資訊
+gui.options.page.debug.button.cheat=啟用作弊
+gui.options.page.debug.button.crash.soft=普通當機
+gui.options.page.debug.button.crash.hard=嚴重當機
+  # 此處原文為 Soft/Hard Crash，Crash一詞目前照台灣用法譯為當機
+  # 但Soft/Hard Crash似乎沒有常見可對應的翻譯
+gui.options.page.debug.button.music.skip=強制播放環境音樂
+gui.options.page.debug.button.garbage_collect=執行記憶體回收
 
 gui.options.page.search.title=搜尋
 
-gui.sound_test.label.title=Sound Test
-gui.sound_test.label.repo=Sound Repository： %s
+gui.sound_test.label.title=音效測試
+gui.sound_test.label.repo=音效來源： %s
 gui.sound_test.label.id=ID： %s
-gui.sound_test.label.subtitle=Subtitle： %s | %s
-gui.sound_test.label.url=URL： %s
-gui.sound_test.label.select_repo=Select Repo:
-gui.sound_test.label.select_entry=Select Entry:
+gui.sound_test.label.subtitle=字幕： %s | %s
+gui.sound_test.label.url=網址： %s
+gui.sound_test.label.select_repo=選擇來源：
+gui.sound_test.label.select_entry=選擇項目：
 gui.sound_test.button.done=完成
-gui.sound_test.button.play=Play
-gui.sound_test.button.play_stream=Play Stream
-gui.sound_test.button.reload=Reload
-gui.sound_test.button.stop=Stop
+gui.sound_test.button.play=播放
+gui.sound_test.button.play_stream=串流播放
+gui.sound_test.button.reload=重新整理
+gui.sound_test.button.stop=停止
 
-gui.texture_viewer.label.title=材質貼圖預覽
+gui.texture_viewer.label.title=貼圖預覽
 
 gui.photo_mode.label.mouse_hint=按下並拖曳來移動和旋轉。
 gui.photo_mode.button.take_screenshot=截圖
@@ -343,63 +347,63 @@ gui.select_world.button.cancel=取消
 gui.sleeping.leave_bed=起床
 gui.sleeping.multiplayer.leave_bed=起床
 
-gui.statistics.label.title=Statistics
-gui.statistics.label.times_used=Times Used
-gui.statistics.label.times_mined=Times Mined
-gui.statistics.label.times_depleted=Times Depleted
-gui.statistics.label.times_crafted=Times Crafted
+gui.statistics.label.title=統計資料
+gui.statistics.label.times_used=使用次數
+gui.statistics.label.times_mined=挖掘次數
+gui.statistics.label.times_depleted=消耗次數
+gui.statistics.label.times_crafted=合成次數
 gui.statistics.button.done=完成
 gui.statistics.button.general=一般
-gui.statistics.button.blocks=Blocks
-gui.statistics.button.items=Items
+gui.statistics.button.blocks=方塊
+gui.statistics.button.items=物品
 
 gui.trommel.label.trommel=礦石篩
 gui.trommel.label.inventory=物品欄
 
 gui.hud_designer.button.done=完成
 
-gui.pick_monster.label.title=Select mob to spawn
+gui.pick_monster.label.title=選擇要生成的生物
 
-gui.model_viewer.slider.variant=Variant： %d
-gui.model_viewer.slider.meta=Meta： %d
-gui.model_viewer.button.tickprogress=Run Tick： %s
-gui.model_viewer.button.rotate=Rotate Labels： %s
-gui.model_viewer.button.reload_textures=Reload Textures
-gui.model_viewer.button.category=Category
+gui.model_viewer.slider.variant=種類 %d
+gui.model_viewer.slider.meta=後設資料： %d
+gui.model_viewer.button.tickprogress=執行刻： %s
+gui.model_viewer.button.rotate=旋轉標籤： %s
+gui.model_viewer.button.reload_textures=重新載入貼圖
+gui.model_viewer.button.category=類別
 
-model.category.entity.info=Entity： %s
-model.category.entity.name=Entity
-model.category.entity.tnt.slider.fuse=Fuse： %d
-model.category.entity.sheep.slider.color=Color： %s
-model.category.entity.painting.slider.motif=Painting： %s
-model.category.entity.fireflycluster.slider.size=Size： %d
-model.category.entity.fireflycluster.button.cycle=Color： %s
-model.category.entity.item.button.cycle=Cycle Item
-model.category.entity.item.slider.size=Size： %d
-model.category.entity.sand.button.cycle=Cycle Block
-model.category.entity.creeper.button.charged=Charged： %s
-model.category.entity.armored_zombie.button.sword=Sword： %s
-model.category.entity.wolf.button.tamed=Tamed： %s
-model.category.entity.wolf.button.sitting=Sitting： %s
-model.category.entity.wolf.button.angry=Angry： %s
-model.category.entity.wolf.button.armor=Armor： %s
-model.category.entity.wolf.button.item=Item： %s
-model.category.entity.boat.button.flag=Flag： %s
-model.category.entity.boat.button.wind=Wind： %s degrees
-model.category.entity.slime.slider.size=Slime： %s
-model.category.entity.minecart.button.cycle=Cycle Minecart
-model.category.entity.minecart.slider.color=Color： %s
+model.category.entity.info=實體： %s
+model.category.entity.name=實體
+model.category.entity.tnt.slider.fuse=引信： %d
+model.category.entity.sheep.slider.color=顏色： %s
+model.category.entity.painting.slider.motif=畫作： %s
+model.category.entity.fireflycluster.slider.size=大小： %d
+model.category.entity.fireflycluster.button.cycle=顏色： %s
+model.category.entity.item.button.cycle=循環物品
+model.category.entity.item.slider.size=大小： %d
+model.category.entity.sand.button.cycle=循環方塊
+model.category.entity.creeper.button.charged=已充能： %s
+model.category.entity.armored_zombie.button.sword=持劍： %s
+model.category.entity.wolf.button.tamed=已馴服： %s
+model.category.entity.wolf.button.sitting=坐： %s
+model.category.entity.wolf.button.angry=憤怒： %s
+model.category.entity.wolf.button.armor=裝甲： %s
+model.category.entity.wolf.button.item=物品： %s
+model.category.entity.boat.button.flag=旗幟： %s
+model.category.entity.boat.button.wind=風向： %s 度
+model.category.entity.slime.slider.size=史萊姆： %s
+model.category.entity.minecart.button.cycle=循環礦車
+model.category.entity.minecart.slider.color=顏色： %s
 
-model.category.block.name=Block
-model.category.block.info=Block： %s
-model.category.block.basket.slider.fill=Fill： %s
-model.category.block.spawner.button.id=Mob： %s
+model.category.block.name=方塊
+model.category.block.info=方塊： %s
+model.category.block.basket.slider.fill=填充度： %s
+model.category.block.spawner.button.id=生物： %s
 
-model.category.particle.name=Particle
-model.category.particle.info=Particle： %s
-model.category.particle.radius.slider=Radius： %s
-model.category.particle.note.slider=Note： %s
-model.category.particle.block.side=Side： %s
+model.category.particle.name=粒子
+model.category.particle.info=粒子： %s
+model.category.particle.radius.slider=範圍： %s
+model.category.particle.note.slider=音符： %s
+model.category.particle.block.side=面向： %s
 
 gui.credits.button.done=完成
 gui.credits.label.title=致謝名單

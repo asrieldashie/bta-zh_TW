@@ -21,9 +21,9 @@ Extract the zipped file and copy `zh_TW` folder to the `/languages` folder of yo
 - [x] Item/Block descriptions
 - [ ] Options menu
 - [ ] World names
-- [ ] Subtitles
+- [x] Subtitles
 - [ ] Stats
-- [ ] Guidebook
+- [x] Guidebook
 - [ ] Modded Stuff
 
 ## Preview

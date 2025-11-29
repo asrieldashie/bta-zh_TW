@@ -12,12 +12,12 @@ season.paradise.gold.name=黃金季
 season.paradise.silver.name=白銀季
 season.null.name=無季節
 
-weather.overworld.clear.name=晴
-weather.overworld.clear.hell.name=晴
-weather.overworld.clear.woods.name=晴
-weather.overworld.rain.name=雨
-weather.overworld.snow.name=雪
-weather.overworld.winter.snow.name=雪
+weather.overworld.clear.name=晴朗
+weather.overworld.clear.hell.name=晴朗
+weather.overworld.clear.woods.name=晴朗
+weather.overworld.rain.name=降雨
+weather.overworld.snow.name=降雪
+weather.overworld.winter.snow.name=降雪
 weather.overworld.storm.name=雷雨
 weather.overworld.fog.name=濃霧
 

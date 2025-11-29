@@ -1,3 +1,8 @@
+  # 以原版 (1.21.10) 已有物品翻譯為主，包含BTA自身有更改過名稱的物品（如Fire Striker譯為打火石）；
+  # 部份參考简体中文(zh-CN)、舊版本及現實物品的翻譯。
+  # 物品描述的部份會根據文本流暢度及實際用途有所增減。
+  # 部份原文較為奇特或搞怪的描述可能無法準確傳達，或和原意大相逕庭，
+  # 敬請見諒。
 item.unknown.desc=尚未發現這項物品。
 
 item.tool.shovel.iron.name=鐵鏟
@@ -322,6 +327,8 @@ item.food.cake.name=蛋糕
 item.food.cake.desc=不是謊言！
 item.food.pumpkin_pie.name=南瓜派
 item.food.pumpkin_pie.desc=蛋糕是個... 南瓜派！
+  # 捏他原版成就及傳送門的梗 "The cake is a lie"
+  # 此處原文為 "The cake is a pie!"
 item.bed.name=床
 item.bed.desc=一夜好眠。
 item.repeater.name=紅石中繼器
