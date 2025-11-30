@@ -1,6 +1,6 @@
 # bta-zh_TW
 ## What's this?
-### Heavy WIP
+### Heavily WIP
 A Traditional Chinese translation pack for [Better than Adventure!](https://www.betterthanadventure.net/)
 
 ## How to install?
@@ -28,9 +28,10 @@ Extract the zipped file and copy `zh_TW` folder to the `/languages` folder of yo
 
 ## Preview
 ![image](https://github.com/asrieldashie/bta-zh_TW/blob/main/Screenshots/menu.png)
+![image](https://github.com/asrieldashie/bta-zh_TW/blob/main/Screenshots/settings.png)
 ![image](https://github.com/asrieldashie/bta-zh_TW/blob/main/Screenshots/world.png)
-![image](https://github.com/asrieldashie/bta-zh_TW/blob/main/Screenshots/cworld.png)
 ![image](https://github.com/asrieldashie/bta-zh_TW/blob/main/Screenshots/inventory.png)
+![image](https://github.com/asrieldashie/bta-zh_TW/blob/main/Screenshots/camera.png)
 ![image](https://github.com/asrieldashie/bta-zh_TW/blob/main/Screenshots/pause.png)
 
 ## Credits
