@@ -263,10 +263,9 @@ gui.options.page.debug.button.open.achievements=開啟成就選單
 gui.options.page.debug.button.wipestats=刪除統計資訊
 gui.options.page.debug.button.unlockedall=解鎖所有統計資訊
 gui.options.page.debug.button.cheat=啟用作弊
-gui.options.page.debug.button.crash.soft=普通當機
-gui.options.page.debug.button.crash.hard=嚴重當機
-  # 此處原文為 Soft/Hard Crash，Crash一詞目前照台灣用法譯為當機
-  # 但Soft/Hard Crash似乎沒有常見可對應的翻譯
+gui.options.page.debug.button.crash.soft=普通崩潰
+gui.options.page.debug.button.crash.hard=嚴重崩潰
+  # Soft/Hard Crash似乎沒有常見可對應的翻譯
 gui.options.page.debug.button.music.skip=強制播放環境音樂
 gui.options.page.debug.button.garbage_collect=執行記憶體回收
 
