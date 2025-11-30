@@ -1,0 +1,15 @@
+betterbattletowers.golem.name=高塔魔像
+betterbattletowers.golem.desc=在高塔頂端休眠著的強力敵人。
+
+betterbattletowers.subtitles.mob.golem=魔像聲響
+betterbattletowers.subtitles.mob.golem.awaken=魔像甦醒
+betterbattletowers.subtitles.mob.golem.death=魔像死亡
+betterbattletowers.subtitles.mob.golem.hurt=魔像受傷
+betterbattletowers.subtitles.mob.golem.special=魔像攻擊
+
+tile.betterbattletowers.chest.tower.name=高塔寶箱
+tile.betterbattletowers.chest.tower.desc=老舊但堅固， 常見於古老高塔中的寶箱。 太重了帶不走。
+tile.betterbattletowers.prison.bar.name=暗色鐵籠
+tile.betterbattletowers.prison.bar.desc=能遮擋光線的鐵製籠子。
+tile.betterbattletowers.prison.fence.name=暗色鐵柵欄
+tile.betterbattletowers.prison.fence.desc=從暗色鐵籠上拆下的部份。

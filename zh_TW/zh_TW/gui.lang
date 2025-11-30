@@ -6,7 +6,7 @@ gui.achievement.label.unlicensed.3=請在 minecraft.net 購買原版遊戲
 gui.achievements.button.done=完成
 gui.achievements.label.title=成就
 gui.achievements.label.taken=已完成！
-gui.achievements.label.requires=需要先完成  '%1$s'
+gui.achievements.label.requires=需要先完成 '%1$s'
 gui.achievements.label.completion=已完成 %1$s！
 
 gui.achievements.page.vanilla.name=原版

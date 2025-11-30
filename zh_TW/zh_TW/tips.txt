@@ -1,28 +1,28 @@
-Press %key.guidebook to open the Guidebook.
-Portals can be as large (or small) as you want.
-The Trommel lets you turn useless dirt into valuable resources.
-Cherry trees bloom in spring.
-Leather boots keep your crops safe from trampling.
-Seasons change every 14 days.
-Items fall through mesh blocks.
-Blast furnaces smelt faster than regular ones.
-Press %key.fly to fly in creative.
-Moss spreads to nearby blocks. See what it can spread to!
-Use %key.fly + scroll up/down to change flying speed in creative.
-Sick of watching grass grow? Use bonemeal on dirt.
-Beds need blankets! Use cloth to craft them.
-Quivers provide a convenient way to store a lot of arrows.
-Olivine is a decent substitute for Nether coal.
-Outback soil is rich with minerals.
-There are 4 main types of rock! See which one you like best.
-Fancy a splash of color? Try painting wooden planks!
-Press %key.hotbar.switch to change your active hotbar.
-Use a compass to see your coordinates.
-Use a clock to see the time of day.
-Use a rotary calendar to see the season.
-Labyrinths contain rare and exciting treasures.
-Right-clicking on one flag while holding another will copy its pattern.
-Signs can be dyed.
-Pebbles can be placed on the ground to make a nice path.
-Labels can be used to rename mobs and items.
-Press LCTRL while hovering over an item to see its description.
+按下 %key.guidebook 來開啟遊戲指南。
+傳送門的大小由你決定。
+礦石篩能幫你把沒有用處的泥土變成珍貴資源。
+櫻花木會在春季開花。
+穿著皮革靴子可防止你不小心踏平耕地。
+季節每 14 天更迭一次。
+掉落物能夠穿過篩網。
+高爐比熔爐燒得更快。
+按下 %key.fly 以在創造模式下飛行。
+青苔會蔓延至四周的方塊， 看看它能蔓延多遠！
+使用 %key.fly 及滑鼠滾輪來調整創造飛行速度。
+厭倦了草地那緩慢的蔓延速度？ 試試在泥土上使用骨粉吧。
+床不能少了被子！ 用布料和其他材料合成一張床吧。
+箭袋可以輕鬆儲存大量箭矢。
+橄欖石可作為不錯的地獄煤炭替代品。
+荒漠的土中富含礦物。
+總共有四種主要的石頭種類！ 看看你最喜歡那一種。
+想為你的世界增添一些色彩？ 試試將木材染色吧！
+按下 %key.hotbar.switch 來切換快捷欄。
+使用羅盤來確認目前的座標。
+使用時鐘來查看目前的時間。
+使用掌上月曆來查看目前的季節。
+在地底迷宮中藏著許多稀有刺激的寶藏。
+手持旗幟對已放置的另一面旗幟按下右鍵可複製其圖案。
+告示牌可被染成其他顏色。
+小卵石可作為美觀的道路裝飾放在地上。
+標籤可用來幫生物或物品重新命名。
+將游標移到物品上並按下 LCTRL 來閱讀其描述。

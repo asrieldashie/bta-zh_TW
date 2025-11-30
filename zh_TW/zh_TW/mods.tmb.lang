@@ -1,0 +1,19 @@
+tmb.category.shapedCrafting=有序合成
+tmb.category.shapelessCrafting=無序合成
+tmb.category.info=Info
+
+tmb.tooltip.itemGroup=可使用任意含 %s 標籤的物品
+tmb.tooltip.allCategories=按此查看所有類別
+
+gui.options.page.controls.category.tmb=Too Many Blocks
+gui.options.page.general.category.tmb=Too Many Blocks
+gui.tmb.recipeTree.label.title=配方樹
+key.tmb.hide=隱藏 TMB
+key.tmb.keyAddFavourite=新增／移除收藏
+key.tmb.setDefaultRecipe=設定／移除預設合成配方
+key.tmb.showRecipeTree=顯示配方樹
+options.isRecipeViewEnabled=啟用配方查詢
+options.isTMBHidden=隱藏 TMB
+
+message.tmb.setDefaultRecipe=已將 '%s' 的預設合成配方設為 '%s'！
+message.tmb.removeDefaultRecipe=已移除 '%s' 的預設合成配方。

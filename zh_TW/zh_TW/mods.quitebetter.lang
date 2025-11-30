@@ -1,0 +1,273 @@
+# Items
+# CLIMBING HOOK
+item.quitebetter.climbing.hook.name=攀爬爪
+item.quitebetter.climbing.hook.desc=用於在懸崖峭壁間輕鬆移動。 需要有堅固方塊作為支撐點！
+
+# WRENCH
+item.quitebetter.wrench.name=扳手
+item.quitebetter.wrench.desc=用以旋轉方塊的實用工具。
+
+# META WRENCH
+item.quitebetter.meta.wrench.name=神奇扳手
+item.quitebetter.meta.wrench.desc=用來操控方塊特殊值的神奇工具。
+item.quitebetter.meta.wrench.info=該方塊的特殊值已設為
+
+# SEASHELL
+item.quitebetter.seashell.name=貝殼
+item.quitebetter.seashell.desc=水流帶來的美麗禮物。
+
+# PEDESTAL
+item.quitebetter.pedestal.name=展示架
+item.quitebetter.pedestal.desc=用來展示收藏品的好地方。
+
+# ARROW TORCH
+item.quitebetter.ammo.arrow.torch.name=火焰箭
+item.quitebetter.ammo.arrow.torch.desc=可用弓射出，帶著火焰的彈射物。
+
+# STEEL FISHING ROD
+item.quitebetter.tool.steel.fishingrod.name=鋼製釣竿
+item.quitebetter.tool.steel.fishingrod.desc=放長線在熔岩中釣大魚！
+
+# SACK
+item.quitebetter.sack.name=束口袋
+item.quitebetter.sack.desc.empty=便攜的儲物袋。
+item.quitebetter.sack.desc.filled=便攜的儲物袋， 內有
+item.quitebetter.sack.desc.mystery=一個神秘的束口袋， 裡面會藏著什麼東西呢？
+
+# LEATHER GLOVE
+item.quitebetter.glove.leather.name=皮革手套
+item.quitebetter.glove.leather.desc=更遠的方塊互動距離。
+
+# Blocks
+# BONE BLOCK
+tile.quitebetter.block.bone.name=骨塊
+tile.quitebetter.block.bone.desc=一塊脆弱， 由骨頭組成的方塊， 令人深思...
+
+# GLOWING MUSHROOM
+tile.quitebetter.mushroom.glowing.name=發光蘑菇
+tile.quitebetter.mushroom.glowing.desc=神秘且發著光的綠色蘑菇。
+
+# MOSSY CLAY BRICKS
+tile.quitebetter.brick.clay.mossy.name=青苔紅磚
+tile.quitebetter.brick.clay.mossy.desc=表面覆蓋著青苔的紅磚。
+
+# GEODE
+tile.quitebetter.geode.name=晶球
+tile.quitebetter.geode.desc=一塊含有礦物的岩石。
+
+# FAN
+tile.quitebetter.fan.name=風扇
+tile.quitebetter.fan.desc=什麼都吹。
+tile.quitebetter.active.fan.name=風扇
+tile.quitebetter.active.fan.desc=什麼都吹。
+
+# PEDESTAL
+tile.quitebetter.pedestal.name=展示架
+tile.quitebetter.pedestal.desc=用來展示收藏品的好地方。
+
+
+
+# COAL LANTERN
+tile.quitebetter.lantern.coal.name=鐵燈籠
+tile.quitebetter.lantern.coal.desc=內有火把的鐵製燈籠
+
+# REDSTONE LANTERN
+tile.quitebetter.lantern.redstone.name=紅石鐵燈籠
+tile.quitebetter.lantern.redstone.desc=內有紅石火把的鐵製燈籠
+
+# GLOWING MUSHROOM LANTERN
+tile.quitebetter.lantern.mushroom.name=發光蘑菇鐵燈籠
+tile.quitebetter.lantern.mushroom.desc=內有發光蘑菇的鐵製燈籠
+
+
+
+# IRON SUPPORTS
+tile.quitebetter.support.iron.name=鐵製支架
+tile.quitebetter.support.iron.desc=用鐵製成的金屬支架。
+
+# STEEL SUPPORTS
+tile.quitebetter.support.steel.name=鋼製支架
+tile.quitebetter.support.steel.desc=用鋼製成的金屬支架。
+
+# WOOD SUPPORTS
+tile.quitebetter.support.wood.name=木製支架
+tile.quitebetter.support.wood.desc=用木頭製成的支架。
+
+
+
+# POLISHED OBSIDIAN
+tile.quitebetter.obsidian.polished.name=拋光黑曜石
+tile.quitebetter.obsidian.polished.desc=打磨至光滑的黑曜石， 真厲害！
+
+# OBSIDIAN BRICKS
+tile.quitebetter.brick.obsidian.name=黑曜石磚
+tile.quitebetter.brick.obsidian.desc=黑曜石堆砌而成的磚堆。
+tile.quitebetter.stairs.brick.obsidian.name=黑曜石磚階梯
+tile.quitebetter.stairs.brick.obsidian.desc=由黑曜石磚製成的階梯， 可用於快速垂直移動。
+tile.quitebetter.slab.brick.obsidian.name=黑曜石磚半磚
+tile.quitebetter.slab.brick.obsidian.desc=黑曜石磚製成的半磚。
+
+# SEASHELL TILES
+tile.quitebetter.tile.seashell.name=貝殼磚
+tile.quitebetter.tile.seashell.desc=貝殼堆砌而成的磚堆。
+tile.quitebetter.stairs.tile.seashell.name=貝殼磚階梯
+tile.quitebetter.stairs.tile.seashell.desc=由貝殼磚製成的階梯， 可用於快速垂直移動。
+tile.quitebetter.slab.tile.seashell.name=貝殼磚半磚
+tile.quitebetter.slab.tile.seashell.desc=貝殼磚製成的半磚。
+
+# SNOW BRICKS
+tile.quitebetter.brick.snow.name=雪磚
+tile.quitebetter.brick.snow.desc=雪塊堆砌而成的磚堆。
+tile.quitebetter.stairs.brick.snow.name=雪磚階梯
+tile.quitebetter.stairs.brick.snow.desc=由雪磚製成的階梯， 可用於快速垂直移動。
+tile.quitebetter.slab.brick.snow.name=雪磚半磚
+tile.quitebetter.slab.brick.snow.desc=雪磚製成的半磚。
+
+# OLIVINE BRICKS
+tile.quitebetter.brick.olivine.name=橄欖石磚
+tile.quitebetter.brick.olivine.desc=橄欖石堆砌而成的磚堆。
+tile.quitebetter.stairs.brick.olivine.name=橄欖石磚階梯
+tile.quitebetter.stairs.brick.olivine.desc=由製成的階梯， 可用於快速垂直移動。
+tile.quitebetter.slab.brick.olivine.name=橄欖石磚半磚
+tile.quitebetter.slab.brick.olivine.desc=製成的半磚。
+
+# MUD BRICKS
+tile.quitebetter.brick.mud.name=泥磚
+tile.quitebetter.brick.mud.desc=泥巴堆砌而成， 不穩定的磚堆。
+tile.quitebetter.stairs.brick.mud.name=泥磚階梯
+tile.quitebetter.stairs.brick.mud.desc=由泥磚製成的階梯， 可用於快速垂直移動。
+tile.quitebetter.slab.brick.mud.name=泥磚半磚
+tile.quitebetter.slab.brick.mud.desc=泥磚製成的半磚。
+
+# BAKED MUD BRICKS
+tile.quitebetter.brick.mud.baked.name=乾泥磚
+tile.quitebetter.brick.mud.baked.desc=乾泥巴堆砌而成的磚堆。
+tile.quitebetter.stairs.brick.mud.baked.name=乾泥磚階梯
+tile.quitebetter.stairs.brick.mud.baked.desc=由乾泥磚製成的階梯， 可用於快速垂直移動。
+tile.quitebetter.slab.brick.mud.baked.name=乾泥磚半磚
+tile.quitebetter.slab.brick.mud.baked.desc=乾泥磚製成的半磚。
+
+# CRATES
+
+tile.quitebetter.crate.name=板條箱
+tile.quitebetter.crate.desc=可儲存大量物品的方塊。
+tile.quitebetter.painted.name=未染色的板條箱
+tile.quitebetter.painted.desc=你是怎麼拿到這個的？！
+
+tile.quitebetter.crate.painted.black.name=黑色板條箱
+tile.quitebetter.crate.painted.black.desc=可儲存大量物品的方塊。
+tile.quitebetter.crate.painted.red.name=紅色板條箱
+tile.quitebetter.crate.painted.red.desc=可儲存大量物品的方塊。
+tile.quitebetter.crate.painted.green.name=綠色板條箱
+tile.quitebetter.crate.painted.green.desc=可儲存大量物品的方塊。
+tile.quitebetter.crate.painted.brown.name=棕色板條箱
+tile.quitebetter.crate.painted.brown.desc=可儲存大量物品的方塊。
+tile.quitebetter.crate.painted.blue.name=藍色板條箱
+tile.quitebetter.crate.painted.blue.desc=可儲存大量物品的方塊。
+tile.quitebetter.crate.painted.purple.name=紫色板條箱
+tile.quitebetter.crate.painted.purple.desc=可儲存大量物品的方塊。
+tile.quitebetter.crate.painted.cyan.name=青色板條箱
+tile.quitebetter.crate.painted.cyan.desc=可儲存大量物品的方塊。
+tile.quitebetter.crate.painted.silver.name=淺灰色板條箱
+tile.quitebetter.crate.painted.silver.desc=可儲存大量物品的方塊。
+tile.quitebetter.crate.painted.gray.name=灰色板條箱
+tile.quitebetter.crate.painted.gray.desc=可儲存大量物品的方塊。
+tile.quitebetter.crate.painted.pink.name=粉紅色板條箱
+tile.quitebetter.crate.painted.pink.desc=可儲存大量物品的方塊。
+tile.quitebetter.crate.painted.lime.name=淺綠色板條箱
+tile.quitebetter.crate.painted.lime.desc=可儲存大量物品的方塊。
+tile.quitebetter.crate.painted.yellow.name=黃色板條箱
+tile.quitebetter.crate.painted.yellow.desc=可儲存大量物品的方塊。
+tile.quitebetter.crate.painted.lightblue.name=淺藍色板條箱
+tile.quitebetter.crate.painted.lightblue.desc=可儲存大量物品的方塊。
+tile.quitebetter.crate.painted.magenta.name=洋紅色板條箱
+tile.quitebetter.crate.painted.magenta.desc=可儲存大量物品的方塊。
+tile.quitebetter.crate.painted.orange.name=橘色板條箱
+tile.quitebetter.crate.painted.orange.desc=可儲存大量物品的方塊。
+tile.quitebetter.crate.painted.white.name=白色板條箱
+tile.quitebetter.crate.painted.white.desc=可儲存大量物品的方塊。
+
+# HAZARD BLOCKS
+
+tile.quitebetter.hazard.name=警示方塊
+tile.quitebetter.hazard.desc=未雨綢繆。
+tile.quitebetter.hazard.painted.name=未染色的警示方塊
+tile.quitebetter.hazard.painted.desc=你是怎麼拿到這個的？！
+
+tile.quitebetter.hazard.painted.black.name=黑色警示方塊
+tile.quitebetter.hazard.painted.black.desc=未雨綢繆。
+tile.quitebetter.hazard.painted.red.name=紅色警示方塊
+tile.quitebetter.hazard.painted.red.desc=未雨綢繆。
+tile.quitebetter.hazard.painted.green.name=綠色警示方塊
+tile.quitebetter.hazard.painted.green.desc=未雨綢繆。
+tile.quitebetter.hazard.painted.brown.name=棕色警示方塊
+tile.quitebetter.hazard.painted.brown.desc=未雨綢繆。
+tile.quitebetter.hazard.painted.blue.name=藍色警示方塊
+tile.quitebetter.hazard.painted.blue.desc=未雨綢繆。
+tile.quitebetter.hazard.painted.purple.name=紫色警示方塊
+tile.quitebetter.hazard.painted.purple.desc=未雨綢繆。
+tile.quitebetter.hazard.painted.cyan.name=青色警示方塊
+tile.quitebetter.hazard.painted.cyan.desc=未雨綢繆。
+tile.quitebetter.hazard.painted.silver.name=淺灰色警示方塊
+tile.quitebetter.hazard.painted.silver.desc=未雨綢繆。
+tile.quitebetter.hazard.painted.gray.name=灰色警示方塊
+tile.quitebetter.hazard.painted.gray.desc=未雨綢繆。
+tile.quitebetter.hazard.painted.pink.name=粉紅色警示方塊
+tile.quitebetter.hazard.painted.pink.desc=未雨綢繆。
+tile.quitebetter.hazard.painted.lime.name=淺綠色警示方塊
+tile.quitebetter.hazard.painted.lime.desc=未雨綢繆。
+tile.quitebetter.hazard.painted.yellow.name=黃色警示方塊
+tile.quitebetter.hazard.painted.yellow.desc=未雨綢繆。
+tile.quitebetter.hazard.painted.lightblue.name=淺藍色警示方塊
+tile.quitebetter.hazard.painted.lightblue.desc=未雨綢繆。
+tile.quitebetter.hazard.painted.magenta.name=洋紅色警示方塊
+tile.quitebetter.hazard.painted.magenta.desc=未雨綢繆。
+tile.quitebetter.hazard.painted.orange.name=橙色警示方塊
+tile.quitebetter.hazard.painted.orange.desc=未雨綢繆。
+tile.quitebetter.hazard.painted.white.name=白色警示方塊
+tile.quitebetter.hazard.painted.white.desc=未雨綢繆。
+
+# IRON CORRUGATED BLOCKS
+
+tile.quitebetter.block.iron.corrugated.name=鐵瓦磚
+tile.quitebetter.block.iron.corrugated.desc=由波浪狀的鐵片製成。
+tile.quitebetter.block.iron.corrugated.painted.name=未染色的鐵瓦磚
+tile.quitebetter.block.iron.corrugated.painted.desc=你是怎麼拿到這個的？！
+
+tile.quitebetter.block.iron.corrugated.painted.black.name=黑色鐵瓦磚
+tile.quitebetter.block.iron.corrugated.painted.black.desc=由波浪狀的鐵片製成。
+tile.quitebetter.block.iron.corrugated.painted.red.name=紅色鐵瓦磚
+tile.quitebetter.block.iron.corrugated.painted.red.desc=由波浪狀的鐵片製成。
+tile.quitebetter.block.iron.corrugated.painted.green.name=綠色鐵瓦磚
+tile.quitebetter.block.iron.corrugated.painted.green.desc=由波浪狀的鐵片製成。
+tile.quitebetter.block.iron.corrugated.painted.brown.name=棕色鐵瓦磚
+tile.quitebetter.block.iron.corrugated.painted.brown.desc=由波浪狀的鐵片製成。
+tile.quitebetter.block.iron.corrugated.painted.blue.name=藍色鐵瓦磚
+tile.quitebetter.block.iron.corrugated.painted.blue.desc=由波浪狀的鐵片製成。
+tile.quitebetter.block.iron.corrugated.painted.purple.name=紫色鐵瓦磚
+tile.quitebetter.block.iron.corrugated.painted.purple.desc=由波浪狀的鐵片製成。
+tile.quitebetter.block.iron.corrugated.painted.cyan.name=青色鐵瓦磚
+tile.quitebetter.block.iron.corrugated.painted.cyan.desc=由波浪狀的鐵片製成。
+tile.quitebetter.block.iron.corrugated.painted.silver.name=淺灰色鐵瓦磚
+tile.quitebetter.block.iron.corrugated.painted.silver.desc=由波浪狀的鐵片製成。
+tile.quitebetter.block.iron.corrugated.painted.gray.name=灰色鐵瓦磚
+tile.quitebetter.block.iron.corrugated.painted.gray.desc=由波浪狀的鐵片製成。
+tile.quitebetter.block.iron.corrugated.painted.pink.name=粉紅色鐵瓦磚
+tile.quitebetter.block.iron.corrugated.painted.pink.desc=由波浪狀的鐵片製成。
+tile.quitebetter.block.iron.corrugated.painted.lime.name=淺綠色鐵瓦磚
+tile.quitebetter.block.iron.corrugated.painted.lime.desc=由波浪狀的鐵片製成。
+tile.quitebetter.block.iron.corrugated.painted.yellow.name=黃色鐵瓦磚
+tile.quitebetter.block.iron.corrugated.painted.yellow.desc=由波浪狀的鐵片製成。
+tile.quitebetter.block.iron.corrugated.painted.lightblue.name=淺藍色鐵瓦磚
+tile.quitebetter.block.iron.corrugated.painted.lightblue.desc=由波浪狀的鐵片製成。
+tile.quitebetter.block.iron.corrugated.painted.magenta.name=洋紅色鐵瓦磚
+tile.quitebetter.block.iron.corrugated.painted.magenta.desc=由波浪狀的鐵片製成。
+tile.quitebetter.block.iron.corrugated.painted.orange.name=橙色鐵瓦磚
+tile.quitebetter.block.iron.corrugated.painted.orange.desc=由波浪狀的鐵片製成。
+tile.quitebetter.block.iron.corrugated.painted.white.name=白色鐵瓦磚
+tile.quitebetter.block.iron.corrugated.painted.white.desc=由波浪狀的鐵片製成。
+
+# Achievements
+# LAVA FISHING
+achievement.lavaFishing=地『魚』探險
+achievement.lavaFishing.desc=從地獄的熔岩池中釣出東西。

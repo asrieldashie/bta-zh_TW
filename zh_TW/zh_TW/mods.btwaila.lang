@@ -1,0 +1,93 @@
+# --Options--
+btwaila.options.title=Better Than Waila!
+btwaila.options.category=Better Than Waila 選項
+btwaila.options.category.general=一般選項
+btwaila.options.category.block=方塊資訊
+btwaila.options.category.entity=實體資訊
+btwaila.options.category.keybinds=快捷鍵
+btwaila.options.category.keybinds.explicit=Better Than Waila
+
+options.blockTooltips=方塊資訊顯示
+options.entityTooltips=實體資訊顯示
+options.blockAdvancedTooltips=方塊詳細資訊顯示
+options.entityAdvancedTooltips=實體詳細資訊顯示
+options.smallHealthBar=生命值顯示列數
+options.rowAmount={x} 列
+options.showBlockId=方塊 ID
+options.showBlockDesc=方塊描述
+options.showHarvestText=挖掘能力顯示
+options.tooltipFormatting=文字位置
+options.tooltipFormatting.left=靠左
+options.tooltipFormatting.centered=置中
+options.tooltipFormatting.right=靠右
+options.barStyle=顯示樣式
+options.barStyle.probe2=The One Probe 2
+options.barStyle.probe=The One Probe
+options.barStyle.plain=平面
+options.barStyle.lava=熔岩
+
+# --Keys--
+btwaila.key.menu=開啟選單
+btwaila.key.democycle=預覽循環
+
+# --Gui--
+btwaila.component.harvest.info.harvestable=可使用目前工具挖掘
+btwaila.component.harvest.info.notharvestable=不可使用目前工具挖掘
+btwaila.component.harvest.info.harvesting=挖掘進度： {progress}%
+
+# These are used as templates to measure theoretical string sizes, changing them could result in spacing issues
+btwaila.util.template.values={current}/{max}
+btwaila.util.template.percentage=({value}%)
+
+btwaila.tooltip.general.entity.null=無
+
+# --Tooltips--
+btwaila.tooltip.minecart.passenger=乘客： {name}
+btwaila.tooltip.minecart.storage=Stored items: {current}/{max}
+btwaila.tooltip.minecart.fuel=Fuel: {fuel}
+
+btwaila.tooltip.chicken.egg=Next egg: {timer} seconds
+
+btwaila.tooltip.painting.title=標題： {id}
+btwaila.tooltip.painting.artist=作者： {id}
+
+btwaila.tooltip.basket.storage=已儲存物品數： {current}/{max}
+
+btwaila.tooltip.boat.passenger=乘客： {name}
+
+btwaila.tooltip.pig.passenger=乘客： {name}
+
+btwaila.tooltip.flag.owner=所有者: {name}
+btwaila.tooltip.flag.owner.none=無
+btwaila.tooltip.flag.color=顏色 {id}:
+btwaila.tooltip.flag.empty=無物品
+
+btwaila.tooltip.furnace.progress=進度： §r
+btwaila.tooltip.furnace.burntime=燃燒時間： {current}t
+
+btwaila.tooltip.inventory.storage=已儲存物品數： {current}/{max}
+
+btwaila.tooltip.spawner.bound=綁定的生物： {name}
+btwaila.tooltip.spawner.canspawn=能夠生成： {flag}
+btwaila.tooltip.spawner.spawndelay=生成延時： {delay}t
+btwaila.tooltip.spawner.name.default=無
+
+btwaila.tooltip.noteblock.pitch=音高 #{note}
+btwaila.tooltip.noteblock.modifier=音色： {modifier}
+btwaila.tooltip.noteblock.material.stone=石頭
+btwaila.tooltip.noteblock.material.sand=沙子
+btwaila.tooltip.noteblock.material.glass=玻璃
+btwaila.tooltip.noteblock.material.wood=木頭
+btwaila.tooltip.noteblock.material.none=一般
+
+btwaila.tooltip.jukebox.disc=唱片 ID： {id}
+
+btwaila.tooltip.sign.owner=所有者： {id}
+btwaila.tooltip.sign.owner.none=無
+
+btwaila.tooltip.trommel.progress=進度： §r
+
+btwaila.tooltip.seat.passenger=座位： {name}
+
+btwaila.tooltip.jar.planted=植物： {name}
+btwaila.tooltip.jar.item.none=無

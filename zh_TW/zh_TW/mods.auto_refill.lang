@@ -1,0 +1,10 @@
+AutoRefill = AutoRefill
+options.playRefillSound=裝填物品時播放音效
+options.refillSoundVolume=音量
+options.useRefillForDropping=丟棄物品時啟用
+options.useAnyRefill=全部啟用
+options.useRefillForTools=啟用工具裝填
+options.useRefillForFood=啟用食物裝填
+options.useRefillOnItems=啟用物品及消耗物裝填
+
+item.auto_refill.debug.name=除錯物品

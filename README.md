@@ -22,7 +22,7 @@ Extract the zipped file and copy `zh_TW` folder to the `/languages` folder of yo
 - [x] Options menu
 - [ ] World names
 - [x] Subtitles
-- [ ] Stats
+- [x] Stats
 - [x] Guidebook
 - [ ] Modded Stuff
 
