@@ -1,6 +1,6 @@
 # bta-zh_TW
 ## What's this?
-### Heavily WIP
+
 A Traditional Chinese translation pack for [Better than Adventure!](https://www.betterthanadventure.net/)
 
 ## How to install?
@@ -14,6 +14,14 @@ Extract the zipped file and copy `zh_TW` folder to the `/languages` folder of yo
 
 <img width="400" alt="圖片" src="https://github.com/user-attachments/assets/11fc4a87-a0de-439a-a146-2c54257dedba" />
 
+
+## Supported Mods
+- [AutoRefill - BTA](https://modrinth.com/mod/auto-refill)
+- [Better Than Battle Towers](https://modrinth.com/mod/better-than-battle-towers)
+- [Better than WAILA](https://modrinth.com/mod/btwaila)
+- [Quite Better than Adventure!](https://github.com/Meganobody/quite-better-than-adventure)
+- [Randomite-BTA](https://modrinth.com/mod/randomite)
+- [Too Many Blocks](https://modrinth.com/mod/tmb)
 
 ## TODO
 - [x] In-game menus

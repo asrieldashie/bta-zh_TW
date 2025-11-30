@@ -57,9 +57,9 @@ tile.quitebetter.geode.desc=一塊含有礦物的岩石。
 
 # FAN
 tile.quitebetter.fan.name=風扇
-tile.quitebetter.fan.desc=什麼都吹。
+tile.quitebetter.fan.desc=什麼都能吹。
 tile.quitebetter.active.fan.name=風扇
-tile.quitebetter.active.fan.desc=什麼都吹。
+tile.quitebetter.active.fan.desc=什麼都能吹。
 
 # PEDESTAL
 tile.quitebetter.pedestal.name=展示架
