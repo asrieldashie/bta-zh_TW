@@ -4,11 +4,9 @@
 A Traditional Chinese translation pack for [Better than Adventure!](https://www.betterthanadventure.net/)
 
 ## How to install?
-First download this repository as ZIP
+First download the zipped file from [Release](https://github.com/asrieldashie/bta-zh_TW/releases/latest)
 
-<img width="400" alt="圖片" src="https://github.com/user-attachments/assets/49f9dab7-2e8c-414b-b1bc-a6eba5d8494a" />
-
-Extract the zipped file and copy `zh_TW` folder to the `/languages` folder of your BTA instance
+Extract the files into `zh_TW` folder (create one if it doesn't exist) to the `/languages` folder of your BTA instance
 
 <img width="400" alt="圖片" src="https://github.com/user-attachments/assets/cea56528-dd61-484e-be3e-206d7457fab6" />
 
