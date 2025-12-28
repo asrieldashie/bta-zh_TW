@@ -8,7 +8,7 @@
 
 將其內容解壓縮至 `你的BTA實例/(.)minecraft/languages` 中的任一資料夾，如圖所示：
 
-<img width="400" alt="圖片" src="https://github.com/user-attachments/assets/cea56528-dd61-484e-be3e-206d7457fab6" />
+<img width="400" alt="Screenshot_2025-12-29_01-43" src="https://github.com/user-attachments/assets/97ac1386-d35d-404d-a2e3-bd01681a342b" />
 
 <img width="400" alt="圖片" src="https://github.com/user-attachments/assets/11fc4a87-a0de-439a-a146-2c54257dedba" />
 
