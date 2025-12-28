@@ -37,6 +37,8 @@ subtitles.mob.spider=蜘蛛嘶嘶聲
 subtitles.mob.ghast.charge=地獄幽靈蓄力
 subtitles.mob.slime.attack=史萊姆攻擊
 subtitles.mob.slime=史萊姆啪搭聲
+subtitles.mob.player.death=玩家死亡
+subtitles.mob.player.hurt=玩家受傷
 
 subtitles.fall.small=物體跌落
 subtitles.damage.fall.big=物體掉落
@@ -91,6 +93,7 @@ subtitles.tile.piston.in=活塞收回
 
 subtitles.tile.tnt.fuse=TNT 嗞嗞作響
 subtitles.tile.sensor_block.sense=偵測到生物
+subtitles.tile.mobspawner.spawn=生物生成
 
 subtitles.tile.dispenser.click=物品投射失敗
 subtitles.tile.dispenser.eject=物品投出
