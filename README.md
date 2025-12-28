@@ -1,19 +1,19 @@
 # bta-zh_TW
-## What's this?
+## 這是什麼？
 
-A Traditional Chinese translation pack for [Better than Adventure!](https://www.betterthanadventure.net/)
+針對 [Better than Adventure!](https://www.betterthanadventure.net/) 提供的繁體中文（台灣）翻譯
 
-## How to install?
-First download the zipped file from [Release](https://github.com/asrieldashie/bta-zh_TW/releases/latest)
+## 如何安裝？
+從 [Release](https://github.com/asrieldashie/bta-zh_TW/releases/latest) 下載名為 `bta-zh_TW.zip` 的壓縮檔
 
-Extract the files into `zh_TW` folder (create one if it doesn't exist) to the `/languages` folder of your BTA instance
+將其內容解壓縮至 `你的BTA實例/(.)minecraft/languages` 中的任一資料夾，如圖所示：
 
 <img width="400" alt="圖片" src="https://github.com/user-attachments/assets/cea56528-dd61-484e-be3e-206d7457fab6" />
 
 <img width="400" alt="圖片" src="https://github.com/user-attachments/assets/11fc4a87-a0de-439a-a146-2c54257dedba" />
 
 
-## Supported Mods
+## 支援模組
 - [AutoRefill - BTA](https://modrinth.com/mod/auto-refill)
 - [Better Than Battle Towers](https://modrinth.com/mod/better-than-battle-towers)
 - [Better than WAILA](https://modrinth.com/mod/btwaila)
@@ -32,7 +32,7 @@ Extract the files into `zh_TW` folder (create one if it doesn't exist) to the `/
 - [x] Guidebook
 - [ ] Modded Stuff
 
-## Preview
+## 預覽
 ![image](https://github.com/asrieldashie/bta-zh_TW/blob/main/Screenshots/menu.png)
 ![image](https://github.com/asrieldashie/bta-zh_TW/blob/main/Screenshots/settings.png)
 ![image](https://github.com/asrieldashie/bta-zh_TW/blob/main/Screenshots/world.png)
