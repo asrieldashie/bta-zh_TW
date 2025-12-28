@@ -67,7 +67,7 @@ gui.conflict_warning.label.body.4=為防止世界損毀，已強制退出目前�
 gui.conflict_warning.button.back=返回標題畫面
 
 gui.connect_failed.label.title=無法連線到伺服器
-gui.connect_failed.button.back=返回標題畫面
+gui.connect_failed.button.back=返回伺服器選單
 
 gui.connect_to_ip.button.connect=加入伺服器
 gui.connect_to_ip.button.cancel=取消
@@ -93,9 +93,34 @@ gui.create_world.button.gamemode=遊戲模式： %s
 gui.create_world.button.cheats=允許作弊： %s
 gui.create_world.button.cheats.on=開
 gui.create_world.button.cheats.off=關
+gui.create_world.button.world_settings=世界設定
 gui.create_world.button.world_type=世界類型
 gui.create_world.label.new_world=新的世界
 gui.create_world.label.select_world_type=選擇世界類型
+
+gui.world_settings.label.title=世界設定
+gui.world_settings.button.done=完成
+gui.world_settings.page.game_rules.title=遊戲規則
+gui.world_settings.page.world_settings.title=世界設定
+gui.world_settings.page.world_settings.category.overworld=主世界
+gui.world_settings.page.world_settings.category.nether=地獄
+gui.world_settings.page.game_rules.button.on=開
+gui.world_settings.page.game_rules.button.off=關
+gui.world_settings.page.mob_spawning.title=生物生成
+gui.world_settings.page.mob_spawning.button.on=開
+gui.world_settings.page.mob_spawning.button.off=關
+gui.world_settings.page.mob_spawning.hostile=敵對生物
+gui.world_settings.page.mob_spawning.passive=中立生物
+gui.world_settings.label.starting_biome=起始生態域
+gui.world_settings.page.starting_biome.biome.none=隨機
+gui.world_settings.label.select_world_type=選擇世界類型
+gui.world_settings.label.world_type=世界類型
+
+gui.select_server.page.internet.title=網際網路
+gui.select_server.page.favorites.title=收藏
+gui.select_server.page.history.title=歷史紀錄
+gui.select_server.page.lan.title=區域網路
+gui.select_server.page.direct_connect.title=直接連線
 
 gui.create_world.label.title=建立新的世界
 gui.create_world.button.cancel=取消
@@ -181,6 +206,8 @@ gui.main_menu.button.multiplayer.disabled=多人遊戲（尚未完成！）
 gui.main_menu.button.texture_packs=材質包
   # 此處及其後出現的Texture Packs一詞皆根據原版1.5.2
   # 將其譯為材質包
+gui.main_menu.button.asset_packs=材質包
+  # 7.4 起官方將其改名為 Asset Packs
 gui.main_menu.button.options=選項...
 gui.main_menu.button.quit_game=離開遊戲
 gui.main_menu.button.discord=Discord
@@ -208,6 +235,9 @@ gui.options.page.general.button.edit_hud=編輯界面...
 gui.options.page.general.category.gameplay=遊戲中
 gui.options.page.general.category.user_interface=遊戲界面
 gui.options.page.general.category.miscellaneous=雜項
+
+gui.options.page.player.title=玩家
+gui.options.page.player.category.player=玩家
 
 gui.options.page.audio.title=音樂和音效
 gui.options.page.audio.category.audio=音樂和音效選項
@@ -245,6 +275,16 @@ gui.options.page.texture_packs.label.no_packs=未找到材質包 :(
 gui.options.page.texture_packs.label.outdated_pack.1=材質包不相容！
 gui.options.page.texture_packs.label.outdated_pack.2=這個材質包與目前 BTA 的版本不相容！
 
+gui.options.page.asset_packs.title=材質包
+gui.options.page.asset_packs.category.textures=材質包選項
+gui.options.page.asset_packs.category.asset_packs.available=可用材質包
+gui.options.page.asset_packs.category.asset_packs.selected=已選材質包
+gui.options.page.asset_packs.button.open_folder=開啟材質包資料夾
+gui.options.page.asset_packs.button.apply=套用材質包
+gui.options.page.asset_packs.label.no_packs=未找到材質包 :(
+gui.options.page.asset_packs.label.outdated_pack.1=材質包不相容！
+gui.options.page.asset_packs.label.outdated_pack.2=這個材質包與目前 BTA 的版本不相容！
+
 gui.options.page.language_packs.title=語言
 gui.options.page.language_packs.category.language_packs=語言包
 gui.options.page.language_packs.button.open_folder=開啟語言包資料夾
@@ -270,6 +310,12 @@ gui.options.page.debug.button.music.skip=強制播放環境音樂
 gui.options.page.debug.button.garbage_collect=執行記憶體回收
 
 gui.options.page.search.title=搜尋
+
+gui.options.difficultylock.button.no=否
+gui.options.difficultylock.button.yes=是
+gui.options.difficultylock.warning.1=你確定要鎖定
+gui.options.difficultylock.warning.2=這個世界的難易度嗎？
+gui.options.difficultylock.warning.3=（此操作無法被復原）
 
 gui.sound_test.label.title=音效測試
 gui.sound_test.label.repo=音效來源： %s

@@ -1,0 +1,12 @@
+world_settings.values.on=開
+world_settings.values.off=關
+
+world_settings.world_height.bottom.name=世界底部高度
+world_settings.world_height.ocean.name=海洋高度
+world_settings.world_height.top.name=世界頂部高度
+world_settings.single_season.enabled.name=單一季節
+world_settings.single_season.value.name=
+world_settings.starting_biome.enabled.name=起始生態域
+world_settings.starting_biome.value.name=
+world_settings.single_biome.enabled.name=單一生態域
+world_settings.single_biome.value.name=

@@ -165,6 +165,10 @@ item.food.porkchop.raw.name=生豬肉
 item.food.porkchop.raw.desc=未烹飪的豬肉。
 item.food.porkchop.cooked.name=烤豬肉
 item.food.porkchop.cooked.desc=已烤熟， 熱氣騰騰的豬肉！
+item.food.venison.raw.name=生鹿肉
+item.food.venison.raw.desc=未烹飪的鹿肉。
+item.food.venison.cooked.name=烤鹿肉
+item.food.venison.cooked.desc=已烤熟， 香氣撲鼻的鹿肉！
 item.painting.name=畫
 item.painting.desc=用以裝飾牆面的美麗畫作。
 item.food.apple.gold.name=金蘋果
@@ -461,6 +465,42 @@ item.rope.desc=堅韌且可攀爬。
 
 item.wand.monster.name=召喚法杖
 item.wand.monster.desc=使持有者擁有能力召喚生物的魔法道具。
+item.wand.nbt.name=NBT 法杖
+item.wand.nbt.desc=使持有者擁有能力修改目標物件資料的魔法道具。
 
 item.paintbrush.name=筆刷
 item.paintbrush.desc=沾上顏料後可為方塊上色。
+
+item.jar.butterfly.blue.name=藍色蝴蝶罐
+item.jar.butterfly.blue.desc=裝著一隻藍色蝴蝶的罐子。
+item.jar.butterfly.orange.name=橙色蝴蝶罐
+item.jar.butterfly.orange.desc=裝著一隻橙色蝴蝶的罐子。
+item.jar.butterfly.pink.name=粉紅色蝴蝶罐
+item.jar.butterfly.pink.desc=裝著一隻粉紅色蝴蝶的罐子。
+item.jar.butterfly.silver.name=銀色蝴蝶罐
+item.jar.butterfly.silver.desc=裝著一隻銀色蝴蝶的罐子。
+
+item.statue.stone.name=石製雕像
+item.statue.stone.desc=一座石頭製成的裝飾用雕像， 可將裝備展示於其上。
+item.statue.basalt.name=玄武岩雕像
+item.statue.basalt.desc=一座玄武岩製成的裝飾用雕像， 可將裝備展示於其上。
+item.statue.limestone.name=石灰岩雕像
+item.statue.limestone.desc=一座石灰岩製成的裝飾用雕像， 可將裝備展示於其上。
+item.statue.granite.name=花崗岩雕像
+item.statue.granite.desc=一座花崗岩製成的裝飾用雕像， 可將裝備展示於其上。
+item.statue.marble.name=大理石雕像
+item.statue.marble.desc=一座大理石製成的裝飾用雕像， 可將裝備展示於其上。
+item.statue.pigman.name=豬人雕像
+item.statue.pigman.desc=在被世界所遺忘的某處角落被發現， 一座古老的大理石雕像。
+
+item.dough.name=麵團
+item.dough.desc=生麵團， 可將其烤成麵包。
+
+item.rubyglass.crystal.cracked.name=紅璃晶碎片
+  # 原文 Rubyglass，此處取兩者名稱合而為一。
+item.rubyglass.crystal.cracked.desc=破碎且充滿雜質， 需種植在地獄石上以將其淨化。
+item.rubyglass.crystal.pure.name=紅璃晶
+item.rubyglass.crystal.pure.desc=一片血紅色的水晶， 完好無損且略微透明。
+
+item.sulfur.name=硫磺
+item.sulfur.desc=十分易燃的黃色物質， 威力驚人。

@@ -63,6 +63,8 @@ worldType.overworld.indev.name=Indev
 worldType.overworld.indev.desc=無盡的 Indev 世界生成。
 worldType.overworld.skyblock.name=空島
 worldType.overworld.skyblock.desc=在一個浮空島嶼上的極限生存。
+worldType.overworld.beta_173.name=Beta 1.7.3
+worldType.overworld.beta_173.desc=更貼近 Minecraft Beta 1.7.3 的生成風格。
 
 disconnect.genericReason=%s
 disconnect.disconnected=已被伺服器斷開連線
@@ -90,6 +92,7 @@ bed.noSleep=你只能在晚上或暴風雨中入睡
 bed.setSpawn=已設定重生點
 bed.notValid=這張床受到阻擋
 bed.noAllowSleeping=睡眠已被停用
+bed.unsafeToSleep=這裡不適合入睡
 
 sign.image.none=無
 sign.image.arrow_right=右箭頭

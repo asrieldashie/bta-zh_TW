@@ -1,4 +1,4 @@
-  # 以原版 (1.21.10) 已有方塊翻譯為主，包含BTA自身有更改過名稱的方塊（如Perma-Ice譯為冰磚）；
+  # 以原版 (1.21.10+) 已有方塊翻譯為主，包含BTA自身有更改過名稱的方塊（如Perma-Ice譯為冰磚）；
   # 部份參考简体中文(zh-CN)、舊版本及現實物品的翻譯。
   # 方塊描述的部份會根據文本流暢度及實際用途有所增減。
   # 部份原文較為奇特或搞怪的描述可能無法準確傳達，或和原意大相逕庭，
@@ -31,6 +31,12 @@ tile.cobble.granite.name=花崗岩碎石
 tile.cobble.granite.desc=碎掉後再重組的花崗岩。
 tile.cobble.permafrost.name=永凍岩碎石
 tile.cobble.permafrost.desc=碎掉後再重組的永凍岩。
+tile.cobble.basalt.mossy.name=青苔玄武岩碎石
+tile.cobble.basalt.mossy.desc=有點點青苔點綴的玄武岩碎石。
+tile.cobble.limestone.mossy.name=青苔石灰岩碎石
+tile.cobble.limestone.mossy.desc=有點點青苔點綴的石灰岩碎石。
+tile.cobble.granite.mossy.name=青苔花崗岩碎石
+tile.cobble.granite.mossy.desc=有點點青苔點綴的花崗岩碎石。
 
 tile.pillar.marble.name=大理石柱
 tile.pillar.marble.desc=雕刻成柱狀的大理石。
@@ -461,11 +467,15 @@ tile.sand.name=沙子
 tile.sand.desc=灑的到處都是。
 tile.gravel.name=礫石
 tile.gravel.desc=一團鬆散的小石頭。
+tile.brimsand.name=硫磺砂
+tile.brimsand.desc=燒焦的硫磺砂， 富含火藥。
 
 tile.bedrock.name=基岩
 tile.bedrock.desc=人類已知最堅硬的岩石。
 tile.boneshale.name=骨頁岩
 tile.boneshale.desc=採集自深淵， 一塊十分堅硬的白色岩石。
+tile.boneshale.cobbled.name=骨頁岩碎石
+tile.boneshale.cobbled.desc=由激烈板塊運動帶至地表的碎裂骨頁岩。
 
 tile.fluid.water.flowing.name=水
 tile.fluid.water.flowing.desc=放置後會流動的水方塊。
@@ -957,6 +967,8 @@ tile.layer.leaves.oak.name=落葉堆
 tile.layer.leaves.oak.desc=一堆落葉。
 tile.layer.slate.name=薄板岩
 tile.layer.slate.desc=薄薄一片板岩。
+tile.layer.ash.name=灰燼堆
+tile.layer.ash.desc=薄薄一層灰燼。
 
 tile.ice.name=冰
 tile.ice.desc=滑溜溜的冷凍水。
@@ -965,6 +977,8 @@ tile.ice.perma.desc=融合了石之精華的冰。
 
 tile.block.snow.name=雪塊
 tile.block.snow.desc=壓成一塊的雪堆。
+tile.block.ash.name=灰燼塊
+tile.block.ash.desc=壓成一塊的灰燼。
 
 tile.cactus.name=仙人掌
 tile.cactus.desc=生長自沙漠的一種多刺植物。
@@ -995,6 +1009,10 @@ tile.pumpkin.redstone.desc=用紅石火把點亮， 長著鬼臉的橙色果實�
 tile.cobble.netherrack.name=地獄石
   # 此處以實際情況為主，仍依據原版對應方塊翻譯。
 tile.cobble.netherrack.desc=可永久燃燒的深紅色岩石。
+tile.magma.name=岩漿塊
+tile.magma.desc=部份冷卻的熔岩， 遇高溫會熔化。
+tile.cobble.netherrack.crystalline.name=晶化地獄石
+tile.cobble.netherrack.crystalline.desc=覆蓋著一層蛛網狀紅璃晶的地獄石。
 tile.cobble.netherrack.igneous.name=熔融地獄石
 tile.cobble.netherrack.igneous.desc=極度高溫使其炙熱光芒從其內部發出。
 tile.cobble.netherrack.mossy.name=血苔地獄石
@@ -1344,3 +1362,67 @@ tile.glass.steel.desc=更堅固不易碎的玻璃。
 tile.rope.name=繩子
 tile.rope.desc=太繩啦。
   # 原文為 "Rope, rope, rope your boat."
+
+tile.rubyglass.name=紅璃晶方塊
+tile.rubyglass.desc=一塊發著光， 充滿能量的虹彩色水晶。
+tile.rubyglass.pure.name=純淨紅璃晶方塊
+tile.rubyglass.pure.desc=一塊發著光， 充滿能量的虹彩色水晶， 相較於普通紅璃更加純淨。
+
+tile.rubyglass.growth.name=紅璃晶晶簇
+tile.rubyglass.growth.desc=一簇向著四面八方延伸的紅璃晶。
+
+tile.rubyglass.circuit.name=紅璃晶電路板
+tile.rubyglass.circuit.desc=蝕刻著紅璃晶電路的地獄石， 其與自身內部能量產生共振。
+
+tile.vent.name=煙囪
+tile.vent.desc=冒著煙的石柱。
+
+tile.bone_pile.name=骨堆
+tile.bone_pile.desc=一堆固體的鈣。
+tile.soul_catcher.name=靈魂捕手
+tile.soul_catcher.desc=從靈魂沙中伸出且自行移動的捲鬚， 會拖住來往生物的腳。
+
+tile.jar.butterfly.blue.name=藍色蝴蝶罐
+tile.jar.butterfly.blue.desc=裝著一隻藍色蝴蝶的罐子。
+tile.jar.butterfly.orange.name=橙色蝴蝶罐
+tile.jar.butterfly.orange.desc=裝著一隻橙色蝴蝶的罐子。
+tile.jar.butterfly.pink.name=粉紅色蝴蝶罐
+tile.jar.butterfly.pink.desc=裝著一隻粉紅色蝴蝶的罐子。
+tile.jar.butterfly.silver.name=銀色蝴蝶罐
+tile.jar.butterfly.silver.desc=裝著一隻銀色蝴蝶的罐子。
+
+tile.statue.stone.lower.name=石製雕像（下半部）
+tile.statue.stone.lower.desc=
+tile.statue.stone.upper.name=石製雕像（上半部）
+tile.statue.stone.upper.desc=
+tile.statue.basalt.lower.name=玄武岩雕像（下半部）
+tile.statue.basalt.lower.desc=
+tile.statue.basalt.upper.name=玄武岩雕像（上半部）
+tile.statue.basalt.upper.desc=
+tile.statue.limestone.lower.name=石灰岩雕像（下半部）
+tile.statue.limestone.lower.desc=
+tile.statue.limestone.upper.name=石灰岩雕像（上半部）
+tile.statue.limestone.upper.desc=
+tile.statue.granite.lower.name=花崗岩雕像（下半部）
+tile.statue.granite.lower.desc=
+tile.statue.granite.upper.name=花崗岩雕像（上半部）
+tile.statue.granite.upper.desc=
+tile.statue.marble.lower.name=大理石雕像（下半部）
+tile.statue.marble.lower.desc=
+tile.statue.marble.upper.name=大理石雕像（上半部）
+tile.statue.marble.upper.desc=
+tile.statue.pigman.lower.name=豬人雕像（下半部）
+tile.statue.pigman.lower.desc=
+tile.statue.pigman.upper.name=豬人雕像（上半部）
+tile.statue.pigman.upper.desc=
+
+tile.gloomstone.name=幽暗石
+  # 翻譯出處：https://www.mcmod.cn/item/473672.html
+tile.gloomstone.desc=（官方尚未加入其物品描述）
+tile.cobble.gloomstone.name=幽暗碎石
+tile.cobble.gloomstone.desc=（官方尚未加入其物品描述）
+
+tile.matcher.name=配對器
+tile.matcher.desc=偵測前後兩個方塊是否相同。
+tile.matcher.active.name=配對器
+tile.matcher.desc=偵測前後兩個方塊是否相同。
