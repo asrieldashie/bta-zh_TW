@@ -3,6 +3,9 @@
 
 針對 [Better than Adventure!](https://www.betterthanadventure.net/) 提供的繁體中文（台灣）翻譯
 
+
+現已支援 7.3 及 7.4 Nightly 版本
+
 ## 如何安裝？
 從 [Release](https://github.com/asrieldashie/bta-zh_TW/releases/latest) 下載名為 `bta-zh_TW.zip` 的壓縮檔
 
@@ -40,7 +43,7 @@
 ![image](https://github.com/asrieldashie/bta-zh_TW/blob/main/Screenshots/camera.png)
 ![image](https://github.com/asrieldashie/bta-zh_TW/blob/main/Screenshots/pause.png)
 
-## Credits
-kirisoup and their contributers for the existing [zh_CN translations](https://codeberg.org/kirisoup/bta-zh_cn)
+## 銘謝
+由 kirisoup 及其他貢獻者提供的 [簡中翻譯](https://codeberg.org/kirisoup/bta-zh_cn)
 
-Vanilla Minecraft Chinese Translation team
+原版 Minecraft 中文翻譯貢獻者
