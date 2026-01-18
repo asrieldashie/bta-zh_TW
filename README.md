@@ -7,7 +7,7 @@
 現已支援 7.3 及 7.4 Nightly 版本
 
 ## 如何安裝？
-從 [Release](https://github.com/asrieldashie/bta-zh_TW/releases/latest) 下載名為 `bta-zh_TW.zip` 的壓縮檔
+從 [Release](https://github.com/asrieldashie/bta-zh_TW/releases/latest) 下載 `bta-zh_TW.zip` 或將此儲存庫下載為壓縮檔。
 
 將其內容解壓縮至 `你的BTA實例/(.)minecraft/languages` 中的任一資料夾，如圖所示：
 
