@@ -502,6 +502,8 @@ tile.log.thorn.name=荊棘木原木
 tile.log.thorn.desc=從荊棘木身上砍伐而來的原木。
 tile.log.palm.name=棕櫚木原木
 tile.log.palm.desc=從棕櫚木身上砍伐而來的原木。
+tile.log.petrified.name=石化木
+tile.log.petrified.desc=外層蓋著一層灰燼，狀似木頭的石柱。
 
 tile.leaves.oak.name=橡木樹葉
 tile.leaves.oak.desc=橡木上長出的一叢樹葉。
@@ -654,6 +656,10 @@ tile.ore.diamond.permafrost.desc=內含有鑽石礦的永凍岩。
 
 tile.ore.nethercoal.netherrack.name=地獄煤礦
 tile.ore.nethercoal.netherrack.desc=內含有地獄煤礦的地獄石。
+tile.ore.nethercoal.basalt.name=玄武岩地獄煤礦
+tile.ore.nethercoal.basalt.desc=內含有地獄煤礦的玄武岩。
+tile.ore.nethercoal.gloomstone.name=幽暗石地獄煤礦
+tile.ore.nethercoal.gloomstone.desc=內含有地獄煤礦的幽暗石。
 
 tile.block.coal.name=煤炭方塊
 tile.block.coal.desc=整整一塊實心的煤炭。
@@ -1206,6 +1212,8 @@ tile.permafrost.polished.name=拋光永凍岩
 tile.permafrost.polished.desc=打磨至光滑的永凍岩。
 tile.netherrack.polished.name=拋光地獄石
 tile.netherrack.polished.desc=打磨至光滑的地獄石。
+tile.gloomstone.polished.name=拋光幽暗石
+tile.gloomstone.polished.desc=打磨至光滑的幽暗石。
 
 tile.candle.wax.soul.name=靈魂蠟燭
 tile.candle.wax.soul.desc=滴著蠟液且散發著奇異光芒的棕色蠟燭。
@@ -1418,11 +1426,26 @@ tile.statue.pigman.upper.desc=
 
 tile.gloomstone.name=幽暗石
   # 翻譯出處：https://www.mcmod.cn/item/473672.html
-tile.gloomstone.desc=（官方尚未加入其物品描述）
+tile.gloomstone.desc=地獄深處挖出來的紫色石頭。
 tile.cobble.gloomstone.name=幽暗碎石
-tile.cobble.gloomstone.desc=（官方尚未加入其物品描述）
+tile.cobble.gloomstone.desc=碎掉後再重組的幽暗石。
+tile.brick.gloomstone.name=幽暗石磚
+tile.brick.gloomstone.desc=幽暗石堆砌而成的磚堆。
+tile.slab.gloomstone.carved.name=拋光幽暗石半磚
+tile.slab.gloomstone.carved.desc=拋光幽暗石製成的半磚。
+tile.slab.cobble.gloomstone.name=幽暗碎石半磚
+tile.slab.cobble.gloomstone.desc=幽暗碎石製成的半磚。
+tile.slab.brick.gloomstone.name=幽暗石磚半磚
+tile.slab.brick.gloomstone.desc=幽暗石磚製成的半磚。
+tile.stairs.cobble.gloomstone.name=幽暗碎石階梯
+tile.stairs.cobble.gloomstone.desc=由幽暗碎石製成的階梯， 可用於快速垂直移動。
+tile.stairs.brick.gloomstone.name=幽暗石磚階梯
+tile.stairs.brick.gloomstone.desc=由幽暗石磚製成的階梯， 可用於快速垂直移動。
 
 tile.matcher.name=配對器
 tile.matcher.desc=偵測前後兩個方塊是否相同。
 tile.matcher.active.name=配對器
 tile.matcher.desc=偵測前後兩個方塊是否相同。
+
+tile.flowstone.name=流石
+tile.flowstone.desc=經過上千年沉積而成的沉積物。
