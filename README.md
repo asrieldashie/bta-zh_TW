@@ -20,8 +20,12 @@
 - [AutoRefill - BTA](https://modrinth.com/mod/auto-refill)
 - [Better Than Battle Towers](https://modrinth.com/mod/better-than-battle-towers)
 - [Better than WAILA](https://modrinth.com/mod/btwaila)
+- [Commandly](https://modrinth.com/mod/commandly)
+- [Iron Furnaces](https://modrinth.com/mod/iron-furnaces-bta)
+- [Paxels](https://modrinth.com/mod/paxels-bta)
 - [Quite Better than Adventure!](https://github.com/Meganobody/quite-better-than-adventure)
 - [Randomite-BTA](https://modrinth.com/mod/randomite)
+- [Snow Golem Backport](https://modrinth.com/mod/snow-golem-backport-bta)
 - [Too Many Blocks](https://modrinth.com/mod/tmb)
 
 ## TODO
@@ -45,5 +49,5 @@
 
 ## 銘謝
 由 kirisoup 及其他貢獻者提供的 [簡中翻譯](https://codeberg.org/kirisoup/bta-zh_cn)
-
+釘宮翻譯組及其貢獻者提供的 [繁中模組翻譯](https://github.com/TeamKugimiya/ModsTranslationPack)
 原版 Minecraft 中文翻譯貢獻者

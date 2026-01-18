@@ -1,0 +1,12 @@
+commandly.command.grow=已加速生長 %s 株植物
+commandly.commandly.treecapitator.inactive=須在設定檔中先啟用 SMART_TREECAPITATOR
+commandly.commandly.veinminer.inactive=須在設定檔中先啟用 SMART_VEINMINER
+commandly.all.inactive=須在設定檔中先啟用 SMART_TREECAPITATOR ， SMART_VEINMINER 或同時啟用兩者
+commandly.protected.fail= 沒有新的方塊被保護
+commandly.protected.active= 已保護 %d 個方塊
+commandly.protected.tolarge=無法執行指令，所選的區域過大
+commandly.descend.down=已向下移動一層
+commandly.descend.fail=無法移動至更低的位置
+commandly.ascend.up=已向上移動一層
+commandly.ascend.fail=無法移動至更高的位置
+commadly.protected.toolarge=選擇的區域過大，請縮小選擇範圍。
