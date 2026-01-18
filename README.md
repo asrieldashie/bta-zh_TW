@@ -49,5 +49,7 @@
 
 ## 銘謝
 由 kirisoup 及其他貢獻者提供的 [簡中翻譯](https://codeberg.org/kirisoup/bta-zh_cn)
+
 釘宮翻譯組及其貢獻者提供的 [繁中模組翻譯](https://github.com/TeamKugimiya/ModsTranslationPack)
+
 原版 Minecraft 中文翻譯貢獻者
