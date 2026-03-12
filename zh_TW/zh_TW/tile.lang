@@ -845,7 +845,7 @@ tile.mesh.gold.desc=只允許特定物品通過。
 
 tile.bed.name=床
 tile.bed.desc=床！
-tile.seat.name=凳子
+tile.seat.name=座椅
 tile.seat.desc=坐下來稍作休息。
 
 tile.cobweb.name=蜘蛛網

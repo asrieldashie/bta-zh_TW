@@ -1,0 +1,30 @@
+item.betterwithbags.backpack.small.name=小型皮革斜背包
+item.betterwithbags.backpack.small.desc=簡易的小背包， 增加 9 格物品欄。
+
+item.betterwithbags.backpack.medium.name=中型皮革背包
+item.betterwithbags.backpack.medium.desc=耐用的旅行背包， 增加 18 格物品欄。
+
+item.betterwithbags.backpack.large.name=大型皮革背包
+item.betterwithbags.backpack.large.desc=寬敞的遠足背包， 增加 27 格物品欄， 會略為降低移動速度。
+
+item.betterwithbags.backpack.reinforced.name=堅固旅行者背包
+item.betterwithbags.backpack.reinforced.desc=空間最大化， 增加 36 格物品欄， 會降低移動速度。
+
+item.betterwithbags.backpack.nether.name=地獄探險家背包
+item.betterwithbags.backpack.nether.desc=融合了橄欖石魔力的防火背包， 增加 27 格物品欄。
+
+item.betterwithbags.bedroll.name=睡袋
+item.betterwithbags.bedroll.desc=易於攜帶， 且睡在上面不會重置重生點。
+
+tile.betterwithbags.backpack.block.small.name=小型皮革斜背包
+tile.betterwithbags.backpack.block.small.desc=簡易的小背包， 9 格儲存空間。
+tile.betterwithbags.backpack.block.medium.name=中型皮革背包
+tile.betterwithbags.backpack.block.medium.desc=耐用的旅行背包， 18 格儲存空間。
+tile.betterwithbags.backpack.block.large.name=大型皮革背包
+tile.betterwithbags.backpack.block.large.desc=寬敞的遠足背包， 27 格儲存空間。
+tile.betterwithbags.backpack.block.reinforced.name=堅固旅行者背包
+tile.betterwithbags.backpack.block.reinforced.desc=空間最大化， 36 格儲存空間。
+tile.betterwithbags.backpack.block.nether.name=地獄探險家背包
+tile.betterwithbags.backpack.block.nether.desc=融合了橄欖石魔力的防火背包， 27 格儲存空間。
+tile.betterwithbags.bedroll.name=睡袋
+tile.betterwithbags.bedroll.desc=易於攜帶， 且睡在上面不會重置重生點。

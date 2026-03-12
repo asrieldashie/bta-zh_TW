@@ -17,16 +17,24 @@
 
 
 ## 支援模組
-- [AutoRefill - BTA](https://modrinth.com/mod/auto-refill)
-- [Better Than Battle Towers](https://modrinth.com/mod/better-than-battle-towers)
-- [Better than WAILA](https://modrinth.com/mod/btwaila)
-- [Commandly](https://modrinth.com/mod/commandly)
-- [Iron Furnaces](https://modrinth.com/mod/iron-furnaces-bta)
-- [Paxels](https://modrinth.com/mod/paxels-bta)
-- [Quite Better than Adventure!](https://github.com/Meganobody/quite-better-than-adventure)
-- [Randomite-BTA](https://modrinth.com/mod/randomite)
-- [Snow Golem Backport](https://modrinth.com/mod/snow-golem-backport-bta)
-- [Too Many Blocks](https://modrinth.com/mod/tmb)
+<details>
+    <summary>展開</summary>
+    - [AutoRefill - BTA](https://modrinth.com/mod/auto-refill)
+    - [Better Than Battle Towers](https://modrinth.com/mod/better-than-battle-towers)
+    - [Better than WAILA](https://modrinth.com/mod/btwaila)
+    - [Better With Bags](https://modrinth.com/mod/better-with-bags)
+    - [Bunnyman Traders](https://modrinth.com/mod/bunnyman-traders)
+    - [Commandly](https://modrinth.com/mod/commandly)
+    - [Iron Furnaces](https://modrinth.com/mod/iron-furnaces-bta)
+    - [Paxels](https://modrinth.com/mod/paxels-bta)
+    - [Quite Better than Adventure!](https://github.com/Meganobody/quite-better-than-adventure)
+    - [Randomite-BTA](https://modrinth.com/mod/randomite)
+    - [RetroStorage](https://modrinth.com/mod/retrostorage)
+    - [Snow Golem Backport](https://modrinth.com/mod/snow-golem-backport-bta)
+    - [Too Many Blocks](https://modrinth.com/mod/tmb)
+    - [World of Color-BTA](https://modrinth.com/mod/world-of-color-bta)
+    - [World Seams Fix](https://modrinth.com/mod/world-seams-fix)
+</details>
 
 ## TODO
 - [x] In-game menus

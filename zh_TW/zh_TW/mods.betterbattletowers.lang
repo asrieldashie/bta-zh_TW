@@ -9,7 +9,50 @@ betterbattletowers.subtitles.mob.golem.special=魔像攻擊
 
 tile.betterbattletowers.chest.tower.name=高塔寶箱
 tile.betterbattletowers.chest.tower.desc=老舊但堅固， 常見於古老高塔中的寶箱。 太重了帶不走。
-tile.betterbattletowers.prison.bar.name=暗色鐵籠
+tile.betterbattletowers.prison.bar.name=遮光鐵籠
 tile.betterbattletowers.prison.bar.desc=能遮擋光線的鐵製籠子。
-tile.betterbattletowers.prison.fence.name=暗色鐵柵欄
-tile.betterbattletowers.prison.fence.desc=從暗色鐵籠上拆下的部份。
+tile.betterbattletowers.prison.fence.name=遮光鐵柵欄
+tile.betterbattletowers.prison.fence.desc=從遮光鐵籠拆下的部份。
+tile.betterbattletowers.crumbling.stone.name=微裂的平滑石頭
+tile.betterbattletowers.crumbling.stone.desc=可能撐不了多久。
+tile.betterbattletowers.bridle.stone.name=碎裂的平滑石頭
+tile.betterbattletowers.bridle.stone.desc=搖搖欲墜！
+tile.betterbattletowers.slab.crumbling.stone.name=微裂的平滑石頭半磚
+tile.betterbattletowers.slab.crumbling.stone.desc=微裂的平滑石頭製成的半磚。
+tile.betterbattletowers.slab.bridle.stone.name=碎裂的平滑石頭半磚
+tile.betterbattletowers.slab.bridle.stone.desc=碎裂的平滑石頭製成的半磚。
+tile.betterbattletowers.stairs.crumbling.stone.name=微裂的平滑石頭階梯
+tile.betterbattletowers.stairs.crumbling.stone.desc=微裂的平滑石頭製成的階梯， 走在上面要小心。
+tile.betterbattletowers.stairs.bridle.stone.name=碎裂的平滑石頭階梯
+tile.betterbattletowers.stairs.bridle.stone.desc=碎裂的平滑石頭製成的階梯， 走在上面要特別小心！
+tile.betterbattletowers.runic.stone.name=高塔石
+tile.betterbattletowers.runic.stone.desc=用以困住高塔中的神秘生物。
+tile.betterbattletowers.runic.chiseled.stone.name=浮雕高塔石
+tile.betterbattletowers.runic.chiseled.stone.desc=上有浮雕的高塔石， 它的用途一目了然。
+tile.betterbattletowers.runic.glyph.stone.name=雕製高塔石
+tile.betterbattletowers.runic.glyph.stone.desc=發著光芒卻不能當作光源的高塔石。
+tile.betterbattletowers.pillar.runic.name=高塔石柱
+tile.betterbattletowers.pillar.runic.desc=袖珍高塔。
+tile.betterbattletowers.carved.obsidian.name=雕紋黑曜石
+tile.betterbattletowers.carved.obsidian.desc=其上雕有條條紋路的黑曜石。
+tile.betterbattletowers.slab.obsidian.name=黑曜石半磚
+tile.betterbattletowers.slab.obsidian.desc=黑曜石製成的半磚。
+tile.betterbattletowers.stairs.obsidian.name=黑曜石階梯
+tile.betterbattletowers.stairs.obsidian.desc=由黑曜石製成的階梯， 可用於快速垂直移動。
+tile.betterbattletowers.overgrown.bloom.brick.name=開花的覆苔石磚
+tile.betterbattletowers.overgrown.bloom.brick.desc=十分美麗。
+tile.betterbattletowers.overgrown.brick.name=覆苔石磚
+tile.betterbattletowers.overgrown.brick.desc=當工業風遇上大自然。
+tile.betterbattletowers.overgrown.name=苔蘚方塊
+tile.betterbattletowers.overgrown.desc=軟軟又蓬蓬的。
+
+# Model viewer
+model.category.entity.golem.state.dormant=休眠狀態。
+model.category.entity.golem.state.awake=甦醒狀態。
+model.category.entity.golem.placeholder.text=類型：
+model.category.entity.golem.placeholder=魔像種類
+
+#Achievements
+achievement.kill.golem.name=征服高塔！
+achievement.kill.golem.desc=擊敗高塔魔像。
+achievement.kill.golem=征服高塔！
