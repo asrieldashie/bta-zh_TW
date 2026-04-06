@@ -19,7 +19,7 @@
 ## 支援模組
 <details>
     <summary>展開</summary>
-    - [AutoRefill - BTA](https://modrinth.com/mod/auto-refill)<br />
+    - <a href="https://modrinth.com/mod/auto-refill">AutoRefill - BTA</a><br />
     - [Better Than Battle Towers](https://modrinth.com/mod/better-than-battle-towers)
     - [Better than WAILA](https://modrinth.com/mod/btwaila)
     - [Better With Bags](https://modrinth.com/mod/better-with-bags)
