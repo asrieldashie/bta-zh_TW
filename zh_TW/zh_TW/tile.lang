@@ -224,6 +224,9 @@ tile.brick.stone.polished.mossy.name=青苔拋光石磚
 tile.brick.stone.polished.mossy.desc=青苔拋光石磚堆砌而成的磚堆。
 tile.brick.sandstone.name=砂岩磚
 tile.brick.sandstone.desc=砂岩堆砌而成的磚堆。
+
+tile.brick.diamond.name=鑽石磚
+tile.brick.diamond.desc=鑽石堆砌而成的磚堆。
 tile.brick.gold.name=金磚
 tile.brick.gold.desc=金錠堆砌而成的磚堆。
 tile.brick.lapis.name=青金石磚
@@ -246,6 +249,10 @@ tile.brick.iron.name=鐵磚
 tile.brick.iron.desc=鐵錠堆砌而成的磚堆。
 tile.brick.steel.name=鋼磚
 tile.brick.steel.desc=鋼錠堆砌而成的磚堆。
+tile.brick.olivine.name=橄欖石磚
+tile.brick.olivine.desc=橄欖石堆砌而成的磚堆。
+tile.brick.quartz.name=石英磚
+tile.brick.quartz.desc=石英堆砌而成的磚堆。
 
 tile.slab.planks.oak.name=木製半磚
 tile.slab.planks.oak.desc=木材製成的半磚。
@@ -328,6 +335,9 @@ tile.slab.brick.sandstone.name=砂岩磚半磚
 tile.slab.brick.sandstone.desc=砂岩磚製成的半磚。
 tile.slab.brick.permafrost.name=永凍岩磚半磚
 tile.slab.brick.permafrost.desc=永凍岩磚製成的半磚。
+
+tile.slab.brick.diamond.name=鑽石磚半磚
+tile.slab.brick.diamond.desc=鑽石磚製成的半磚。
 tile.slab.brick.iron.name=鐵磚半磚
 tile.slab.brick.iron.desc=鐵磚製成的半磚。
 tile.slab.brick.gold.name=金磚半磚
@@ -336,6 +346,10 @@ tile.slab.brick.steel.name=鋼磚半磚
 tile.slab.brick.steel.desc=鋼磚製成的半磚。
 tile.slab.brick.lapis.name=青金石磚半磚
 tile.slab.brick.lapis.desc=青金石磚製成的半磚。
+tile.slab.brick.olivine.name=橄欖石磚半磚
+tile.slab.brick.olivine.desc=橄欖石磚製成的半磚。
+tile.slab.brick.quartz.name=石英磚半磚
+tile.slab.brick.quartz.desc=石英磚製成的半磚。
 
 tile.stairs.planks.oak.name=木製階梯
 tile.stairs.planks.oak.desc=由木材製成的階梯， 可用於快速垂直移動。
@@ -371,6 +385,9 @@ tile.stairs.brick.sandstone.name=砂岩磚階梯
 tile.stairs.brick.sandstone.desc=由砂岩磚製成的階梯， 可用於快速垂直移動。
 tile.stairs.brick.permafrost.name=永凍岩磚階梯
 tile.stairs.brick.permafrost.desc=由永凍岩磚製成的階梯， 可用於快速垂直移動。
+
+tile.stairs.brick.diamond.name=鑽石磚階梯
+tile.stairs.brick.diamond.desc=由鑽石磚製成的階梯， 可用於快速垂直移動。
 tile.stairs.brick.iron.name=鐵磚階梯
 tile.stairs.brick.iron.desc=由鐵磚製成的階梯， 可用於快速垂直移動。
 tile.stairs.brick.gold.name=金磚階梯
@@ -379,6 +396,10 @@ tile.stairs.brick.steel.name=鋼磚階梯
 tile.stairs.brick.steel.desc=由鋼磚製成的階梯， 可用於快速垂直移動。
 tile.stairs.brick.lapis.name=青金石磚階梯
 tile.stairs.brick.lapis.desc=由青金石磚製成的階梯， 可用於快速垂直移動。
+tile.stairs.brick.olivine.name=橄欖石磚階梯
+tile.stairs.brick.olivine.desc=由橄欖石磚製成的階梯， 可用於快速垂直移動。
+tile.stairs.brick.quartz.name=石英磚階梯
+tile.stairs.brick.quartz.desc=由石英磚製成的階梯， 可用於快速垂直移動。
 
 tile.stairs.planks.oak.painted.name=未染色的木製階梯
 tile.stairs.planks.oak.painted.desc=你是怎麼拿到這個的？！
@@ -1371,13 +1392,17 @@ tile.rope.name=繩子
 tile.rope.desc=太繩啦。
   # 原文為 "Rope, rope, rope your boat."
 
-tile.rubyglass.name=紅璃晶方塊
-tile.rubyglass.desc=一塊發著光， 充滿能量的虹彩色水晶。
-tile.rubyglass.pure.name=純淨紅璃晶方塊
-tile.rubyglass.pure.desc=一塊發著光， 充滿能量的虹彩色水晶， 相較於普通紅璃更加純淨。
+tile.rubyglass.column.name=紅璃晶柱
+tile.rubyglass.column.desc=壓縮成柱的紅璃晶， 破壞後會化作粉末， 但可被重組。
 
-tile.rubyglass.growth.name=紅璃晶晶簇
-tile.rubyglass.growth.desc=一簇向著四面八方延伸的紅璃晶。
+tile.rubyglass.node.name=紅璃晶核
+tile.rubyglass.node.desc=稠密且略為刺出表面的紅璃晶， 其長出的紅璃水晶更為純淨且更加結實。
+
+tile.block.rubyglass.name=紅璃晶方塊
+tile.block.rubyglass.desc=一塊透明， 充滿能量的玻璃狀水晶。
+
+tile.rubyglass.sprout.name=紅璃晶芽
+tile.rubyglass.sprout.desc=一簇向著四面八方延伸的紅璃晶晶芽， 在特定條件下會生長於晶化地獄岩上。
 
 tile.rubyglass.circuit.name=紅璃晶電路板
 tile.rubyglass.circuit.desc=蝕刻著紅璃晶電路的地獄石， 其與自身內部能量產生共振。
