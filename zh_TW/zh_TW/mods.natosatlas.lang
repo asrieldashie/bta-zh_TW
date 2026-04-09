@@ -1,0 +1,8 @@
+# 此模組僅提供設定選項的翻譯鍵值，遊戲內界面文字無法透過語言包翻譯
+natosatlas.options.title=NatosAtlas
+natosatlas.options.category.keybinds=快捷鍵
+
+natosatlas.key.map=全螢幕地圖
+natosatlas.key.config=設定
+natosatlas.key.waypoints=定位點
+natosatlas.key.add_waypoint=新增定位點

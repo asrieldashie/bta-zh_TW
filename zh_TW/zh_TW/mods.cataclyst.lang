@@ -1,0 +1,79 @@
+# Core
+gui.options.page.catalyst=Catalyst
+gui.options.page.catalyst.category.core=核心
+gui.options.page.catalyst.category.fluids=流體
+gui.options.page.catalyst.category.energy=能量
+gui.options.page.catalyst.category.multiblocks=多方塊
+gui.options.page.catalyst.category.effects=效果
+gui.options.page.catalyst.category.multipart=複合方塊
+
+options.catalyst-core.showNetworkRender=顯示網路渲染
+
+# Effects
+attribute.catalyst.effectDuration.name=效果時長
+attribute.catalyst.effectDuration.desc=更改所有效果的持續時間。
+
+effect.catalyst.durationBoost.name=延長效果
+
+options.catalyst-effects.displayEffectsIn=效果顯示位置
+options.catalyst-effects.displayEffectsIn.inventory=物品欄
+options.catalyst-effects.displayEffectsIn.hud=遊戲畫面
+options.catalyst-effects.displayEffectsIn.both=皆顯示
+
+options.catalyst-effects.displayExtraHealthAs=額外生命值顯示
+options.catalyst-effects.displayExtraHealthAs.extra_bars=額外愛心
+options.catalyst-effects.displayExtraHealthAs.multiplier=數字
+
+error.catalyst-effects.invalidEffect=無效的效果！
+error.catalyst-effects.incompatibleEntity=無法施加效果於不適用的實體！
+
+command.catalyst-effects.add.extra_health.success_single_entity=已增加 %s 的生命值給 %s
+command.catalyst-effects.set.extra_health.success_single_entity=將 %s 的最大生命值設為 %s
+command.catalyst-effects.get.extra_health.success_single_entity=%s 的最大生命值為 %s
+
+# for @a
+command.catalyst-effects.add.extra_health.success_multiple_entities=已增加 %s 的生命值給多個玩家
+command.catalyst-effects.set.extra_health.success_multiple_entities=將多個玩家的最大生命值設為 %s
+command.catalyst-effects.get.extra_health.success_multiple_entities=該玩家群的最大生命值為 %s
+
+command.catalyst-effects.effects.add.poison.success_single_entity=已施加 %s 效果於 %s
+command.catalyst-effects.effects.add.poison.success_multiple_entity=已施加 %s 效果於 %s 個實體
+
+command.catalyst-effects.effects.add.remedy.success_single_entity=已施加 %s 效果於 %s
+command.catalyst-effects.effects.add.remedy.success_multiple_entity=已施加 %s 效果於 %s 個實體
+
+command.catalyst-effects.effects.clear.success_single_entity=已清除 %s 的所有效果
+command.catalyst-effects.effects.clear.success_multiple_entity=已清除 %s 個實體的所有效果
+
+# Fluids
+fluid.water.name=水
+fluid.lava.name=熔岩
+fluid.milk.name=牛奶
+fluid.ice_cream.name=冰淇淋
+
+# Multipart
+tile.catalyst-multipart.multipart.name=複合方塊
+tile.catalyst-multipart.multipart.desc=由數個方塊部件組合成的集合體。
+
+tile.catalyst-multipart.workbench.carpenter.name=工匠工作台
+tile.catalyst-multipart.workbench.carpenter.desc=可將方塊分解成個別部件的特殊工作台。
+
+item.catalyst-multipart.multipart.name=未知複合方塊
+item.catalyst-multipart.multipart.desc=某個方塊的部份切片。
+
+multipart.foil.name=薄片
+multipart.cover.name=蓋板
+multipart.panel.name=厚片
+multipart.slab.name=半磚
+multipart.antifoil.name=反薄片
+multipart.anticover.name=反蓋板
+multipart.antipanel.name=反厚片
+multipart.hollow_foil.name=空心薄片
+multipart.hollow_cover.name=空心蓋板
+multipart.hollow_panel.name=空心厚片
+multipart.hollow_slab.name=空心半磚
+multipart.pillar.name=柱
+
+options.catalyst-multipart.showMultipartsInTMB=在 TMB 中顯示複合方塊 (需要重新啟動遊戲)
+
+container.catalyst-multipart.carpenterWorkbench.name=工匠工作台

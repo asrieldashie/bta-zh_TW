@@ -686,7 +686,7 @@ tile.block.coal.name=煤炭方塊
 tile.block.coal.desc=整整一塊實心的煤炭。
 tile.block.iron.name=鐵方塊
 tile.block.iron.desc=整整一塊實心的鐵， 好重！
-tile.block.gold.name=金方塊
+tile.block.gold.name=黃金方塊
 tile.block.gold.desc=整整一塊實心的黃金， 用來炫耀你的財富。
 tile.block.lapis.name=青金石方塊
 tile.block.lapis.desc=整整一塊實心的青金石。
@@ -1402,7 +1402,7 @@ tile.block.rubyglass.name=紅璃晶方塊
 tile.block.rubyglass.desc=一塊透明， 充滿能量的玻璃狀水晶。
 
 tile.rubyglass.sprout.name=紅璃晶芽
-tile.rubyglass.sprout.desc=一簇向著四面八方延伸的紅璃晶晶芽， 在特定條件下會生長於晶化地獄岩上。
+tile.rubyglass.sprout.desc=一簇向著四面八方延伸的紅璃晶晶芽， 在特定條件下會生長於晶化地獄石上。
 
 tile.rubyglass.circuit.name=紅璃晶電路板
 tile.rubyglass.circuit.desc=蝕刻著紅璃晶電路的地獄石， 其與自身內部能量產生共振。

@@ -1,0 +1,10 @@
+tile.betterwithenchanting.enchantment.table.name = 附魔台
+tile.betterwithenchanting.enchantment.table.desc = 神奇魔法。
+
+enchantment.betterwithenchanting.haste.name = 效率
+enchantment.betterwithenchanting.unbreaking.name = 耐久
+enchantment.betterwithenchanting.quickswing.name = 迅使
+enchantment.betterwithenchanting.flame.name = 火焰
+enchantment.betterwithenchanting.bait.name = 魚餌
+
+disabled = Glitchcraft
