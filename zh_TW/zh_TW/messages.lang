@@ -1,0 +1,62 @@
+messages.player_joined=%s 加入了遊戲
+messages.player_left=%s 離開了遊戲
+messages.player_kicked=%s 離開了遊戲
+
+# messages.illegal_characters=[SERVER] Illegal characters in chat message.
+
+messages.sleep.succeed=%s 已入睡， 祝好夢！
+messages.sleep.enter_bed=%s 已上床
+messages.sleep.exit_bed=%s 已下床
+messages.sleep.more_required=還需要 %s 個玩家睡覺來跳過夜晚
+messages.sleep.more_required.singular=還需要 %s 個玩家睡覺來跳過夜晚
+
+messages.bed.occupied=這張床已被佔用
+messages.bed.noSleep=你只能在晚上或暴風雨中入睡
+messages.bed.setSpawn=已設定重生點
+messages.bed.notValid=你的床已遺失或受到阻擋
+messages.bed.noAllowSleeping=睡覺已停用
+messages.bed.unsafeToSleep=這裡不適合入睡
+
+messages.wand.wrongmode=只能在創造模式下使用這個物品！
+
+messages.flag.full=你放置了太多旗幟！
+messages.flag.overwrite=無法覆蓋已有圖案
+messages.flag.copied=已複製圖案
+
+messages.death.mob.generic=%s 已死亡
+messages.death.mob.lava=%s 嘗試在岩漿裡游泳
+messages.death.mob.spikes=%s 被刺穿了
+messages.death.mob.fall=%s 從高處跌落
+messages.death.mob.drowned=%s 溺死了
+messages.death.mob.fire=%s 被燒死了
+messages.death.mob.killed_by=%s 被 %s 殺死了
+
+messages.death.player.generic=%s 已死亡
+messages.death.player.lava=%s 嘗試在岩漿裡游泳
+messages.death.player.spikes=%s 被刺穿了
+messages.death.player.fall=%s 從高處跌落
+messages.death.player.drowned=%s 溺死了
+messages.death.player.fire=%s 被燒死了
+messages.death.player.tnt=%s 被炸飛了
+messages.death.player.lightning=%s 被閃電擊斃
+messages.death.player.herobrine=%s 被 Herobrine 殺死了
+messages.death.player.killed_by=%s 被 %s 殺死了
+messages.death.player.killed_by.zombie=%s 被殭屍殺死了
+messages.death.player.killed_by.zombie_pig=%s 被殭屍豬人殺死了
+messages.death.player.killed_by.creeper=%s 被苦力怕炸飛了
+messages.death.player.killed_by.skeleton=%s 被骷髏射殺了
+messages.death.player.killed_by.spider=%s 被蜘蛛咬死了
+messages.death.player.killed_by.ghast=%s 被地獄幽靈的火球炸飛了
+messages.death.player.killed_by.slime=%s 被史萊姆殺死了
+messages.death.player.killed_by.wolf=%s 被狼殺死了
+messages.death.player.killed_by.giant=%s 被巨人殺- 你說什麼！？
+messages.death.player.killed_by.pig=%s 連豬都打不過
+messages.death.player.killed_by.arrow=%s 被射殺了
+messages.death.player.killed_by.arrow_player=%s 被 %s 射殺了
+messages.death.player.killed_by.arrow_suicide=%s 被自己射殺了
+messages.death.player.killed_by.arrow_golden=%s 被金箭射穿了
+messages.death.player.killed_by.arrow_golden_player=%s 被 %s 用金箭射穿了
+messages.death.player.killed_by.arrow_golden_suicide=%s 被自己用金箭射穿了
+messages.death.player.killed_by.cannonball=%s 被大砲炸飛了
+messages.death.player.killed_by.cannonball_player=%s 被 %s 用大砲炸飛了
+messages.death.player.killed_by.cannonball_suicide=%s 被自己用大砲炸飛了

@@ -44,7 +44,7 @@ tile.capstone.marble.name=大理石柱頂磚
 tile.capstone.marble.desc=大理石製成的柱頂磚。
 
 tile.sandstone.name=砂岩
-tile.sandstone.desc=壓縮沙子。
+tile.sandstone.desc=壓縮的沙子。
 
 tile.stone.carved.name=雕製石頭
 tile.stone.carved.desc=中間刻有線條的平滑石頭。
@@ -225,6 +225,8 @@ tile.brick.stone.polished.mossy.desc=青苔拋光石磚堆砌而成的磚堆。
 tile.brick.sandstone.name=砂岩磚
 tile.brick.sandstone.desc=砂岩堆砌而成的磚堆。
 
+tile.brick.rubyglass.name=紅璃晶磚
+tile.brick.rubyglass.desc=紅璃晶堆砌而成的磚堆。
 tile.brick.diamond.name=鑽石磚
 tile.brick.diamond.desc=鑽石堆砌而成的磚堆。
 tile.brick.gold.name=金磚
@@ -294,6 +296,8 @@ tile.slab.basalt.carved.name=拋光玄武岩半磚
 tile.slab.basalt.carved.desc=拋光玄武岩製成的半磚。
 tile.slab.permafrost.carved.name=拋光永凍岩半磚
 tile.slab.permafrost.carved.desc=拋光永凍岩製成的半磚。
+tile.slab.slate.carved.name=拋光板岩半磚
+tile.slab.slate.carved.desc=拋光板岩製成的半磚。
 
 tile.slab.planks.oak.painted.name=未染色的木製半磚
 tile.slab.planks.oak.painted.desc=你是怎麼拿到這個的？！
@@ -336,6 +340,8 @@ tile.slab.brick.sandstone.desc=砂岩磚製成的半磚。
 tile.slab.brick.permafrost.name=永凍岩磚半磚
 tile.slab.brick.permafrost.desc=永凍岩磚製成的半磚。
 
+tile.slab.brick.rubyglass.name=紅璃晶磚半磚
+tile.slab.brick.rubyglass.desc=紅璃晶磚製成的半磚。
 tile.slab.brick.diamond.name=鑽石磚半磚
 tile.slab.brick.diamond.desc=鑽石磚製成的半磚。
 tile.slab.brick.iron.name=鐵磚半磚
@@ -386,6 +392,8 @@ tile.stairs.brick.sandstone.desc=由砂岩磚製成的階梯， 可用於快速�
 tile.stairs.brick.permafrost.name=永凍岩磚階梯
 tile.stairs.brick.permafrost.desc=由永凍岩磚製成的階梯， 可用於快速垂直移動。
 
+tile.stairs.brick.rubyglass.name=紅璃晶磚階梯
+tile.stairs.brick.rubyglass.desc=由紅璃晶磚製成的階梯， 可用於快速垂直移動。
 tile.stairs.brick.diamond.name=鑽石磚階梯
 tile.stairs.brick.diamond.desc=由鑽石磚製成的階梯， 可用於快速垂直移動。
 tile.stairs.brick.iron.name=鐵磚階梯
@@ -715,6 +723,23 @@ tile.torch.redstone.active.desc=發出持續性的紅石訊號。
 
 tile.button.stone.name=石製按鈕
 tile.button.stone.desc=按下後會短暫發出紅石訊號。
+tile.button.basalt.name=玄武岩按鈕
+tile.button.basalt.desc=按下後會短暫發出紅石訊號。
+tile.button.limestone.name=石灰岩按鈕
+tile.button.limestone.desc=按下後會短暫發出紅石訊號。
+tile.button.granite.name=花崗岩按鈕
+tile.button.granite.desc=按下後會短暫發出紅石訊號。
+tile.button.permafrost.name=永凍岩按鈕
+tile.button.permafrost.desc=按下後會短暫發出紅石訊號。
+tile.button.netherrack.name=地獄石按鈕
+tile.button.netherrack.desc=按下後會短暫發出紅石訊號。
+tile.button.gloomstone.name=幽暗石按鈕
+tile.button.gloomstone.desc=按下後會短暫發出紅石訊號。
+tile.button.sandstone.name=砂岩按鈕
+tile.button.sandstone.desc=按下後會短暫發出紅石訊號。
+tile.button.brimstone.name=硫磺石按鈕
+tile.button.brimstone.desc=按下後會短暫發出紅石訊號。
+
 tile.button.planks.name=木製按鈕
 tile.button.planks.desc=按下後會短暫發出紅石訊號。
 
@@ -758,11 +783,40 @@ tile.lever.cobble.stone.desc=可控制紅石訊號開關。
 
 tile.pressureplate.stone.name=石製壓力板
 tile.pressureplate.stone.desc=生物踩上時會發出紅石訊號。
+tile.pressureplate.basalt.name=玄武岩壓力板
+tile.pressureplate.basalt.desc=生物踩上時會發出紅石訊號。
+tile.pressureplate.limestone.name=石灰岩壓力板
+tile.pressureplate.limestone.desc=生物踩上時會發出紅石訊號。
+tile.pressureplate.granite.name=花崗岩壓力板
+tile.pressureplate.granite.desc=生物踩上時會發出紅石訊號。
+tile.pressureplate.permafrost.name=永凍岩壓力板
+tile.pressureplate.permafrost.desc=生物踩上時會發出紅石訊號。
+tile.pressureplate.netherrack.name=平滑地獄石壓力板
+tile.pressureplate.netherrack.desc=生物踩上時會發出紅石訊號。
+tile.pressureplate.gloomstone.name=幽暗石壓力板
+tile.pressureplate.gloomstone.desc=生物踩上時會發出紅石訊號。
+tile.pressureplate.sandstone.name=砂岩壓力板
+tile.pressureplate.sandstone.desc=生物踩上時會發出紅石訊號。
+tile.pressureplate.brimstone.name=硫磺石壓力板
+tile.pressureplate.brimstone.desc=生物踩上時會發出紅石訊號。
+
 tile.pressureplate.planks.oak.name=木製壓力板
 tile.pressureplate.planks.oak.desc=任何實體踩上時會發出紅石訊號。
+
 tile.pressureplate.cobble.stone.name=鵝卵石壓力板
 tile.pressureplate.cobble.stone.desc=玩家踩上時會發出紅石訊號。
-
+tile.pressureplate.cobble.basalt.name=玄武岩碎石壓力板
+tile.pressureplate.cobble.basalt.desc=玩家踩上時會發出紅石訊號。
+tile.pressureplate.cobble.limestone.name=石灰岩碎石壓力板
+tile.pressureplate.cobble.limestone.desc=玩家踩上時會發出紅石訊號。
+tile.pressureplate.cobble.granite.name=花崗岩碎石壓力板
+tile.pressureplate.cobble.granite.desc=玩家踩上時會發出紅石訊號。
+tile.pressureplate.cobble.permafrost.name=永凍岩碎石壓力板
+tile.pressureplate.cobble.permafrost.desc=玩家踩上時會發出紅石訊號。
+tile.pressureplate.cobble.netherrack.name=地獄石壓力板
+tile.pressureplate.cobble.netherrack.desc=玩家踩上時會發出紅石訊號。
+tile.pressureplate.cobble.gloomstone.name=幽暗石壓力板
+tile.pressureplate.cobble.gloomstone.desc=玩家踩上時會發出紅石訊號。
 
 tile.pressureplate.planks.oak.painted.name=未染色的木製壓力板
 tile.pressureplate.planks.oak.painted.desc=任何實體踩上時會發出紅石訊號。
@@ -1393,21 +1447,24 @@ tile.rope.desc=太繩啦。
   # 原文為 "Rope, rope, rope your boat."
 
 tile.rubyglass.column.name=紅璃晶柱
-tile.rubyglass.column.desc=壓縮成柱的紅璃晶， 破壞後會化作粉末， 但可被重組。
-
+tile.rubyglass.column.desc=壓縮成柱的紅璃晶體。
 tile.rubyglass.node.name=紅璃晶核
-tile.rubyglass.node.desc=稠密且略為刺出表面的紅璃晶， 其長出的紅璃水晶更為純淨且更加結實。
-
+tile.rubyglass.node.desc=稠密且略為刺出表面的紅璃晶。
 tile.block.rubyglass.name=紅璃晶方塊
-tile.block.rubyglass.desc=一塊透明， 充滿能量的玻璃狀水晶。
+tile.block.rubyglass.desc=一塊充滿能量的亮粉色水晶。
+tile.rubyglass.conduit.name=管線
+tile.rubyglass.conduit.desc=由紅璃晶及紅石作為觸媒產生能量的地獄石。
+tile.rubyglass.growth.name=紅璃晶體
+tile.rubyglass.growth.desc=方格狀的紅璃晶體。
+tile.rubyglass.crystal.name=紅璃晶水晶
+tile.rubyglass.crystal.desc=猩紅色的易碎水晶。
 
-tile.rubyglass.sprout.name=紅璃晶芽
-tile.rubyglass.sprout.desc=一簇向著四面八方延伸的紅璃晶晶芽， 在特定條件下會生長於晶化地獄石上。
+# tile.rubyglass.sprout.name=紅璃晶芽
+# tile.rubyglass.sprout.desc=一簇向著四面八方延伸的紅璃晶晶芽， 在特定條件下會生長於晶化地獄石上。
+# tile.rubyglass.circuit.name=紅璃晶電路板
+# tile.rubyglass.circuit.desc=蝕刻著紅璃晶電路的地獄石， 其與自身內部能量產生共振。
 
-tile.rubyglass.circuit.name=紅璃晶電路板
-tile.rubyglass.circuit.desc=蝕刻著紅璃晶電路的地獄石， 其與自身內部能量產生共振。
-
-tile.vent.name=煙囪
+tile.vent.name=煙柱
 tile.vent.desc=冒著煙的石柱。
 
 tile.bone_pile.name=骨堆
@@ -1467,6 +1524,22 @@ tile.stairs.cobble.gloomstone.desc=由幽暗碎石製成的階梯， 可用於�
 tile.stairs.brick.gloomstone.name=幽暗石磚階梯
 tile.stairs.brick.gloomstone.desc=由幽暗石磚製成的階梯， 可用於快速垂直移動。
 
+tile.log.scorched.name=焦燼原木
+tile.log.scorched.desc=在高溫中燒得焦黑的木頭。
+
+tile.brimstone.name=硫磺石
+tile.brimstone.desc=壓縮的硫磺砂。
+tile.slab.brimstone.name=硫磺石半磚
+tile.slab.brimstone.desc=硫磺石製成的半磚。
+tile.stairs.brimstone.name=硫磺石階梯
+tile.stairs.brimstone.desc=由硫磺石製成的階梯， 可用於快速垂直移動。
+tile.brick.brimstone.name=硫磺石磚
+tile.brick.brimstone.desc=硫磺石堆砌而成的磚堆。
+tile.slab.brick.brimstone.name=硫磺石磚半磚
+tile.slab.brick.brimstone.desc=硫磺石磚製成的半磚。
+tile.stairs.brick.brimstone.name=硫磺石磚階梯
+tile.stairs.brick.brimstone.desc=由硫磺石磚製成的階梯， 可用於快速垂直移動。
+
 tile.matcher.name=配對器
 tile.matcher.desc=偵測前後兩個方塊是否相同。
 tile.matcher.active.name=配對器
@@ -1474,3 +1547,21 @@ tile.matcher.desc=偵測前後兩個方塊是否相同。
 
 tile.flowstone.name=流石
 tile.flowstone.desc=經過上千年沉積而成的沉積物。
+
+tile.sulfur.name=硫磺方塊
+tile.sulfur.desc=整整一塊難聞且實心的硫磺。
+tile.sulfur_hardened.name=硬化硫磺方塊
+tile.sulfur_hardened.desc=整整一塊堅硬、難聞且實心的硫磺。
+
+tile.boulder.magmatic.name=熔岩石塊
+tile.boulder.magmatic.desc=一大塊含有岩漿的石頭。
+tile.boulder.sulfuric.name=硫磺石塊
+tile.boulder.sulfuric.desc=一大塊含有硫磺的石頭。
+
+tile.brimthaw.name=融硫塊
+tile.brimthaw.desc=部份冷卻的硫酸， 遇到腐蝕性液體會融化。
+tile.ember.name=餘燼塊
+tile.ember.desc=悶燒著且易爆的舊世界遺物。
+
+tile.acid.name=硫酸
+tile.acid.desc=具有高度腐蝕性的酸性液體。

@@ -1,4 +1,4 @@
-  # 以原版 (1.21.10) 已有物品翻譯為主，包含BTA自身有更改過名稱的物品（如Fire Striker譯為打火石）；
+  # 以原版 (1.21.10+) 已有物品翻譯為主，包含BTA自身有更改過名稱的物品（如Fire Striker譯為打火石）；
   # 部份參考简体中文(zh-CN)、舊版本及現實物品的翻譯。
   # 物品描述的部份會根據文本流暢度及實際用途有所增減。
   # 部份原文較為奇特或搞怪的描述可能無法準確傳達，或和原意大相逕庭，
@@ -13,6 +13,8 @@ item.tool.axe.iron.name=鐵斧
 item.tool.axe.iron.desc=用這把工具來砍下樹木。
 item.tool.firestriker.name=打火石
 item.tool.firestriker.desc=想都別想。
+item.tool.firestriker.iron.name=打火石
+item.tool.firestriker.iron.desc=想都別想。
 item.tool.firestriker.steel.name=鋼製打火石
 item.tool.firestriker.steel.desc=更加危險的打火石。
 item.food.apple.name=蘋果
@@ -90,7 +92,9 @@ item.string.desc=絲綢般柔順的蜘蛛絲。
 item.feather.chicken.name=羽毛
 item.feather.chicken.desc=從雞身上拔下的羽毛。
 item.sulphur.name=火藥
-item.sulphur.desc=從苦力怕身上採集而來的爆炸性粉末。
+item.sulphur.desc=從苦力怕身上掉落的爆炸性粉末。
+item.gunpowder.name=火藥
+item.gunpowder.desc=從苦力怕身上掉落的爆炸性粉末。
 item.tool.hoe.wood.name=木鋤
 item.tool.hoe.wood.desc=用這把工具來開墾耕地。
 item.tool.hoe.stone.name=石鋤
@@ -211,12 +215,40 @@ item.sign.painted.white.name=白色告示牌
 item.sign.painted.white.desc=標示你的領地或寫下留言。
 item.door.oak.name=木門
 item.door.oak.desc=每幢房子都少不了一扇門。
+
 item.bucket.name=鐵桶
 item.bucket.desc=用以盛裝各式液體。
 item.bucket.water.name=水桶
 item.bucket.water.desc=滿滿一桶的深藍色液體。
 item.bucket.lava.name=熔岩桶
 item.bucket.lava.desc=滿滿一桶的熔岩， 好燙！
+
+item.bucket.iron.name=鐵桶
+item.bucket.iron.desc=用以盛裝各式液體。
+item.bucket.iron.water.name=水鐵桶
+item.bucket.iron.water.desc=滿滿一桶的深藍色液體。
+item.bucket.iron.lava.name=岩漿鐵桶
+item.bucket.iron.lava.desc=滿滿一桶的熔岩， 好燙！
+item.bucket.iron.milk.name=牛奶鐵桶
+item.bucket.iron.milk.desc=對骨骼健康很好。
+item.bucket.iron.icecream.name=冰淇淋鐵桶
+item.bucket.iron.icecream.desc=灑上巧克力片且用櫻桃點綴的冷凍甜品！
+item.bucket.iron.acid.name=硫酸鐵桶
+item.bucket.iron.acid.desc=一桶得小心裝好的腐蝕性液體。
+
+item.bucket.steel.name=鋼桶
+item.bucket.steel.desc=用以盛裝各式液體。
+item.bucket.steel.water.name=水鋼桶
+item.bucket.steel.water.desc=滿滿一大桶的深藍色液體。
+item.bucket.steel.lava.name=岩漿鋼桶
+item.bucket.steel.lava.desc=滿滿一大桶的熔岩， 好燙！
+item.bucket.steel.milk.name=牛奶鋼桶
+item.bucket.steel.milk.desc=對骨骼健康特別好！
+item.bucket.steel.icecream.name=冰淇淋鋼桶
+item.bucket.steel.icecream.desc=好像有點太多了...
+item.bucket.steel.acid.name=硫酸鋼桶
+item.bucket.steel.acid.desc=一大桶得小心裝好的腐蝕性液體。
+
 item.minecart.name=礦車
 item.minecart.desc=用以探索地底世界的鐵製載具。
 item.saddle.name=鞍
@@ -337,10 +369,12 @@ item.bed.name=床
 item.bed.desc=一夜好眠。
 item.repeater.name=紅石中繼器
 item.repeater.desc=延遲並拓展紅石訊號。
+item.timer.name=紅石計時器
+item.timer.desc=持續性的循環輸出兩側訊號。
 item.map.name=地圖
 item.map.blank.name=空白地圖
 item.map.desc=畫出這片大地！
-item.leaves.樹葉
+item.leaves.name=樹葉
 item.leaves.desc=清脆且翠綠的樹葉。
 item.tool.shears.name=剪刀
 item.tool.shears.desc=用以修剪植物及收集羊毛的實用工具。
@@ -481,29 +515,43 @@ item.jar.butterfly.silver.name=銀色蝴蝶罐
 item.jar.butterfly.silver.desc=裝著一隻銀色蝴蝶的罐子。
 
 item.statue.stone.name=石製雕像
-item.statue.stone.desc=一座石頭製成的裝飾用雕像， 可將裝備展示於其上。
+item.statue.stone.desc=一座由石頭製成的雕像。
 item.statue.basalt.name=玄武岩雕像
-item.statue.basalt.desc=一座玄武岩製成的裝飾用雕像， 可將裝備展示於其上。
+item.statue.basalt.desc=一座由玄武岩製成的雕像。
 item.statue.limestone.name=石灰岩雕像
-item.statue.limestone.desc=一座石灰岩製成的裝飾用雕像， 可將裝備展示於其上。
+item.statue.limestone.desc=一座由石灰岩製成的雕像。
 item.statue.granite.name=花崗岩雕像
-item.statue.granite.desc=一座花崗岩製成的裝飾用雕像， 可將裝備展示於其上。
+item.statue.granite.desc=一座由花崗岩製成的雕像。
 item.statue.marble.name=大理石雕像
-item.statue.marble.desc=一座大理石製成的裝飾用雕像， 可將裝備展示於其上。
+item.statue.marble.desc=一座由大理石製成的雕像。
 item.statue.pigman.name=豬人雕像
-item.statue.pigman.desc=在被世界所遺忘的某處角落被發現， 一座古老的大理石雕像。
+item.statue.pigman.desc=在世界某處角落被發現的一座古老大理石雕像。
+item.statue.slate.name=板岩雕像
+item.statue.slate.desc=一座由板岩製成的雕像。
+item.statue.permafrost.name=永凍岩雕像
+item.statue.permafrost.desc=一座由永凍岩製成的雕像。
+item.statue.netherrack.name=地獄石雕像
+item.statue.netherrack.desc=一座由地獄石製成的雕像。
+item.statue.gloomstone.name=幽暗石雕像
+item.statue.gloomstone.desc=一座由幽暗石製成的雕像。
+
+item.ammo.arrow.flaming.name=烈焰箭
+item.ammo.arrow.flaming.desc=箭頭塗有硫磺的燃燒箭矢。
 
 item.dough.name=麵團
 item.dough.desc=生麵團， 可將其烤成麵包。
 
-item.rubyglass.crystal.cracked.name=紅璃晶碎片
-  # 原文 Rubyglass，此處取兩者名稱合而為一。
-item.rubyglass.crystal.cracked.desc=破碎且充滿雜質， 需種植在地獄石上以將其淨化。
-item.rubyglass.crystal.pure.name=紅璃晶
-item.rubyglass.crystal.pure.desc=一片血紅色的水晶， 完好無損且略微透明。
+item.rubyglass.crystal.name=紅璃晶
+  # 原文 Rubyglass，此處參考兩者（Ruby, Glass）名稱及遊戲內樣式而命名。
+item.rubyglass.crystal.desc=一塊充滿且散發著能量的水晶。
+
+# item.rubyglass.crystal.cracked.name=紅璃晶碎片
+# item.rubyglass.crystal.cracked.desc=破碎且充滿雜質， 需種植在地獄石上以將其淨化。
+# item.rubyglass.crystal.pure.name=紅璃晶
+# item.rubyglass.crystal.pure.desc=一片血紅色的水晶， 完好無損且略微透明。
 
 item.sulfur.name=硫磺
-item.sulfur.desc=十分易燃的黃色物質， 威力驚人。
+item.sulfur.desc=從硫酸池中萃取出的刺鼻易燃粉末。
 
 item.armor.wolf.leather.name=皮革狼鎧
 item.armor.wolf.leather.desc=用這套鬆軟的皮革鎧甲保護你最好的朋友。

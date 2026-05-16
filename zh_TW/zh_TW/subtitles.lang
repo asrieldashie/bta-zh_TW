@@ -106,3 +106,17 @@ subtitles.hurt.flesh=受傷
 
 subtitles.fire.ignite=火焰點燃
 subtitles.fire.fire=火劈啪聲
+
+subtitles.step.crystal=水晶叮噹作響
+    # 26-05-16 尚未加入此音效的翻譯鍵值
+subtitles.tile.crystal=水晶叮噹作響
+
+subtitles.tile.scrape=雕像刮擦聲
+
+subtitles.tile.deepcrumble=深處碎石滾動聲
+subtitles.tile.deepboom=深處轟隆聲
+subtitles.tile.crumble=碎石滾動聲
+subtitles.tile.acidbubble=硫酸氣泡聲
+subtitles.tile.deepquietboom=深處小轟隆聲
+
+subtitles.hurt.flesh=生物受傷

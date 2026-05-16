@@ -234,6 +234,7 @@ gui.options.page.general.button.open_screenshots_folder=開啟螢幕截圖資料
 gui.options.page.general.button.edit_hud=編輯界面...
 gui.options.page.general.category.gameplay=遊戲中
 gui.options.page.general.category.user_interface=遊戲界面
+gui.options.page.controls.category.hud_editor=介面編輯器
 gui.options.page.general.category.miscellaneous=雜項
 
 gui.options.page.player.title=玩家
@@ -316,6 +317,22 @@ gui.options.difficultylock.button.yes=是
 gui.options.difficultylock.warning.1=你確定要鎖定
 gui.options.difficultylock.warning.2=這個世界的難易度嗎？
 gui.options.difficultylock.warning.3=（此操作無法被復原）
+
+gui.options.hudeditor.onboarding.welcome=歡迎使用介面編輯器！
+gui.options.hudeditor.onboarding.select=按一下 '%1$s' 選擇元件
+gui.options.hudeditor.onboarding.drag=按住 '%1$s' 拖移元件
+gui.options.hudeditor.onboarding.context=在元件上按一下 '%1$s' 顯示詳細設定
+gui.options.hudeditor.onboarding.nudge=按下 '%1$s' 移動元件
+gui.options.hudeditor.onboarding.nudge_fast=同時按住 '%1$s' 以大幅移動
+gui.options.hudeditor.onboarding.reset=按一下 '%1$s' 重設介面
+gui.options.hudeditor.onboarding.exit=按一下 '%1$s' 離開編輯器
+gui.options.hudeditor.onboarding.reopen=按一下 '%1$s' 以再次顯示此說明！
+gui.options.hudeditor.onboarding.begin=在任一處按一下以關閉
+gui.options.hudeditor.snap_to_fill=Snap To Fill
+  # 功能未知
+gui.options.hudeditor.scale=介面大小
+gui.options.hudeditor.chat_width=聊天框寬度
+gui.options.hudeditor.chat_height=聊天框高度
 
 gui.sound_test.label.title=音效測試
 gui.sound_test.label.repo=音效來源： %s
